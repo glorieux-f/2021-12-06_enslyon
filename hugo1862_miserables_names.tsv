@@ -1,0 +1,2921 @@
+forme	type	effectif
+Marius	NAMEpers	1288
+Jean Valjean	NAMEpers	1102
+Cosette	NAMEpers	995
+Thénardier	NAMEpers	589
+Javert	NAMEpers	452
+Paris	NAMEplace	387
+Dieu	NAME	369
+Gavroche	NAMEpers	302
+Fauchelevent	NAMEpers	286
+Enjolras	NAMEpers	250
+Gille Normand	NAMEpers	235
+Fantine	NAMEpers	205
+M. Madeleine	NAMEpers	195
+Courfeyrac	NAMEpers	181
+Jondrette	NAMEpers	173
+France	NAMEplace	158
+Napoléon	NAME	126
+Leblanc	NAMEpers	111
+Waterloo	NAME	106
+Montparnasse	NAMEplace	90
+Combeferre	NAMEpers	89
+Mabeuf	NAMEpers	89
+Grantaire	NAMEpers	82
+Mme Magloire	NAMEpers	77
+Éponine	NAMEpers	77
+Montfermeil	NAMEplace	75
+Pontmercy	NAMEpers	74
+Bossuet	NAME	73
+Wellington	NAMEpers	66
+Montreuil-sur-mer	NAMEplace	60
+Tholomyès	NAMEpers	58
+Brujon	NAMEpers	57
+Digne	NAMEplace	56
+Luxembourg	NAMEplace	56
+Angleterre	NAMEplace	55
+Toussaint	NAMEpers	52
+rue plumet	NAMEplace	49
+Europe	NAMEplace	48
+Babet	NAMEpers	46
+Boulatruelle	NAMEpers	46
+Champmathieu	NAMEpers	44
+Madeleine	NAMEpers	43
+Favourite	NAMEpers	42
+Seine	NAMEplace	42
+père Madeleine	NAMEpers	41
+rue de la Chanvrerie	NAMEplace	41
+Austerlitz	NAME	39
+Jésus-Christ	NAME	39
+Théodule	NAMEpers	39
+Arras	NAMEplace	37
+Joly	NAMEpers	37
+Bahorel	NAMEpers	36
+Rome	NAMEplace	36
+État	NAME	36
+Hucheloup	NAMEpers	35
+Louis-Philippe	NAMEpers	35
+République	NAME	35
+Voltaire	NAME	35
+Laigle	NAMEpers	34
+rue de l' Homme-Armé	NAMEplace	34
+M. Marius	NAMEpers	32
+Mont-Saint-Jean	NAMEplace	32
+Nicolette	NAMEpers	32
+César	NAME	31
+Corinthe	NAMEplace	30
+monseigneur Bienvenu	NAMEpers	30
+Gueulemer	NAMEpers	29
+Hougomont	NAMEpers	29
+Magnon	NAMEpers	29
+Toulon	NAMEplace	29
+Blachevelle	NAMEpers	28
+Baptistine	NAMEpers	27
+Bonaparte	NAMEpers	27
+Filles-du-Calvaire	NAMEplace	27
+Myriel	NAMEpers	27
+Simplice	NAMEpers	27
+Feuilly	NAMEpers	26
+Jean Prouvaire	NAMEpers	26
+Petit-Gervais	NAMEpers	25
+Gorbeau	NAMEpers	24
+Italie	NAMEplace	24
+Petit-Picpus	NAMEplace	23
+Azelma	NAMEpers	22
+Blücher	NAMEpers	22
+Fauvent	NAMEpers	22
+Révolution	NAME	22
+Espagne	NAMEplace	21
+Mestienne	NAMEpers	21
+rue Saint-Denis	NAMEplace	21
+Champs-Élysées	NAMEplace	20
+Louis 18	NAMEpers	20
+Saint-Merry	NAMEplace	20
+faubourg Saint-Antoine	NAMEplace	20
+Claquesous	NAMEpers	19
+Genappe	NAMEpers	19
+Mars	NAME	19
+Ursule	NAMEpers	19
+Vernon	NAMEpers	19
+rue Polonceau	NAMEplace	19
+Dahlia	NAMEpers	18
+La Fayette	NAMEpers	18
+M. Jean	NAMEpers	18
+Plutarque	NAME	18
+Saint-Sacrement	NAME	18
+Bigrenaille	NAMEpers	17
+Fabantou	NAMEpers	17
+Haie-Sainte	NAMEplace	17
+Robespierre	NAMEpers	17
+rue Picpus	NAMEplace	17
+Cabuc	NAMEpers	16
+Faverolles	NAMEplace	16
+Mondétour	NAMEpers	16
+Nivelles	NAMEplace	16
+Scaufflaire	NAMEpers	16
+Zéphine	NAMEpers	16
+rue Droit-Mur	NAMEplace	16
+Bruxelles	NAMEplace	15
+Louis 16	NAMEpers	15
+Marius Pontmercy	NAMEpers	15
+Vaugirard	NAMEplace	15
+rue Mondétour	NAMEplace	15
+Allemagne	NAMEplace	14
+Blondeau	NAMEpers	14
+Cochepaille	NAMEpers	14
+Danton	NAMEpers	14
+Laffitte	NAMEpers	14
+Lamarque	NAMEpers	14
+Ney	NAMEplace	14
+Brutus	NAMEpers	13
+Bâtiment-Neuf	NAMEplace	13
+Charlemagne	NAMEpers	13
+Chenildieu	NAMEpers	13
+Grèce	NAMEplace	13
+Louis 15	NAMEpers	13
+Rousseau	NAME	13
+crucifixion	NAMEpers	13
+Bruneseau	NAMEpers	12
+Cambronne	NAMEpers	12
+Fameuil	NAMEpers	12
+G.	NAMEpers	12
+Listolier	NAMEpers	12
+Lon	NAMEpers	12
+Londres	NAMEplace	12
+Louis 14	NAMEpers	12
+Maine	NAMEplace	12
+Marat	NAMEplace	12
+Ohain	NAMEplace	12
+Saint-Jacques	NAMEplace	12
+Venise	NAMEplace	12
+saint Benoît	NAMEpers	12
+Amérique	NAMEplace	11
+B 100	NAMEpers	11
+Braine-l'Alleud	NAMEplace	11
+Chelles	NAMEplace	11
+Dante	NAME	11
+Euphrasie	NAMEpers	11
+Iéna	NAMEplace	11
+Jean	NAMEpers	11
+Louvre	NAMEplace	11
+Marguerite	NAMEpers	11
+Martin Verga	NAMEpers	11
+Montreuil-sur-Mer	NAMEplace	11
+Musain	NAMEpers	11
+Patron-Minette	NAMEpers	11
+Petite-Truanderie	NAMEpers	11
+Tacite	NAME	11
+couvent du Petit-Picpus	NAMEplace	11
+rue de Babylone	NAMEplace	11
+rue de l' ouest	NAMEplace	11
+rue du Petit-Banquier	NAMEplace	11
+Alexandre	NAMEpers	10
+Gribier	NAMEpers	10
+Homère	NAME	10
+Inde	NAMEplace	10
+Laigle de Meaux	NAMEplace	10
+Lobau	NAMEpers	10
+Molière	NAME	10
+Saint-Cloud	NAMEplace	10
+Vénus	NAME	10
+de T.	NAMEpers	10
+rue Saint-Louis	NAMEplace	10
+Bülow	NAMEpers	9
+Catherine	NAMEpers	9
+Charles 10	NAMEpers	9
+Flore	NAME	9
+Genrot	NAMEpers	9
+Jeanne	NAMEpers	9
+Lagny	NAMEplace	9
+Saint-Martin	NAMEplace	9
+Adam	NAMEpers	8
+André Chénier	NAMEpers	8
+Babylone	NAMEpers	8
+Barthélemy	NAMEpers	8
+Burgon	NAMEpers	8
+Cîteaux	NAMEpers	8
+Diderot	NAME	8
+Orion	NAME	8
+Panchaud	NAMEpers	8
+Plancenoit	NAMEpers	8
+Pologne	NAMEplace	8
+Révolution de juillet	NAME	8
+Saint-Sulpice	NAMEplace	8
+rue de Pontoise	NAMEplace	8
+rue du cygne	NAMEplace	8
+Asie	NAMEplace	7
+Baloup	NAMEpers	7
+Bicêtre	NAMEplace	7
+Brunswick	NAMEpers	7
+Corneille	NAME	7
+Fabre	NAMEpers	7
+Foy	NAMEpers	7
+Hesdin	NAMEplace	7
+Horace	NAME	7
+Jean-Jacques	NAMEpers	7
+Loire	NAMEplace	7
+Mme Albertine	NAMEpers	7
+Montmartre	NAMEplace	7
+Néron	NAMEpers	7
+Papelotte	NAMEpers	7
+Saint-Jacques-du-Haut-Pas	NAMEpers	7
+Saint-Médard	NAMEplace	7
+Soult	NAMEpers	7
+lieutenant Théodule	NAMEpers	7
+rue de la verrerie	NAMEplace	7
+Égypte	NAMEplace	7
+Aix	NAMEplace	6
+Allez-vous	NAMEpers	6
+Anglès	NAMEplace	6
+Angoulême	NAMEplace	6
+Annibal	NAMEpers	6
+Athènes	NAMEplace	6
+Auvergne	NAMEplace	6
+Bel-Air	NAMEpers	6
+Belle-Alliance	NAMEpers	6
+Buonaparte	NAMEpers	6
+Chateaubriand	NAME	6
+Châtelet	NAMEplace	6
+Corse	NAMEplace	6
+Diogène	NAMEpers	6
+Eschyle	NAME	6
+Fannicot	NAMEpers	6
+Frischemont	NAMEpers	6
+Gagny	NAMEplace	6
+Grouchy	NAMEpers	6
+Henri 4	NAMEpers	6
+Henri IV	NAMEpers	6
+Juvénal	NAME	6
+Lacenaire	NAMEpers	6
+Lyon	NAMEplace	6
+Madelonnettes	NAMEpers	6
+Meaux	NAMEplace	6
+Nassau	NAMEpers	6
+Orléans	NAMEplace	6
+Pontarlier	NAMEplace	6
+Père-Lachaise	NAMEpers	6
+Reille	NAMEpers	6
+Rossomme	NAMEpers	6
+Saint-Antoine	NAMEplace	6
+Saint-Paul	NAMEplace	6
+Somerset	NAMEpers	6
+Vienne	NAMEpers	6
+Virgile	NAME	6
+Washington	NAMEpers	6
+de Cosette	NAMEpers	6
+de Rohan	NAMEpers	6
+faubourg Saint-Germain	NAMEplace	6
+faubourg Saint-Marceau	NAMEplace	6
+rue Mouffetard	NAMEplace	6
+rue Saint-Antoine	NAMEplace	6
+Afrique	NAMEplace	5
+Bauduin	NAMEpers	5
+Benjamin Constant	NAMEpers	5
+Berlin	NAMEplace	5
+Bernard	NAMEpers	5
+Bretagne	NAMEplace	5
+Bugeaud	NAMEpers	5
+C'en	NAMEpers	5
+Cournet	NAMEpers	5
+David	NAMEpers	5
+Delord	NAMEpers	5
+Descartes	NAME	5
+Fontainebleau	NAMEplace	5
+Genflot	NAMEpers	5
+Gisquet	NAMEpers	5
+Hill	NAMEpers	5
+Kempt	NAMEpers	5
+Labarre	NAMEpers	5
+Lesgle	NAMEpers	5
+Livry	NAMEplace	5
+Louis 17	NAMEpers	5
+Léonidas	NAMEpers	5
+Mirabeau	NAMEplace	5
+O	NAMEpers	5
+Pardine	NAMEpers	5
+Passy	NAMEplace	5
+Ponine	NAMEpers	5
+Ponsonby	NAMEpers	5
+Rabelais	NAME	5
+Racine	NAME	5
+Reims	NAMEplace	5
+Richefeu	NAMEpers	5
+Romainville	NAMEplace	5
+Russie	NAMEplace	5
+Saint-Just	NAMEplace	5
+Saint-Louis	NAMEplace	5
+Saint-Michel	NAMEplace	5
+Saint-Pol	NAMEpers	5
+Sainte-Hélène	NAMEplace	5
+Socrate	NAME	5
+Talma	NAMEpers	5
+Thénard	NAMEpers	5
+Tinques	NAMEpers	5
+Toulouse	NAMEplace	5
+Tryphon	NAMEpers	5
+Utrecht	NAMEpers	5
+Valjean	NAMEpers	5
+Villon	NAME	5
+Vincennes	NAMEplace	5
+Wurmser	NAMEpers	5
+de Clermont-Tonnerre	NAMEpers	5
+rue Neuve-Sainte-Geneviève	NAMEplace	5
+rue Saint-Jacques	NAMEplace	5
+rue du temple	NAMEplace	5
+Ève	NAMEpers	5
+île d' Elbe	NAMEplace	5
+Alten	NAMEpers	4
+Arcole	NAMEpers	4
+Argenteuil	NAMEplace	4
+Aspasie	NAMEpers	4
+Aumarais	NAMEpers	4
+Autriche	NAMEplace	4
+Babeuf	NAMEpers	4
+Balizard	NAMEpers	4
+Bamatabois	NAMEpers	4
+Belgique	NAMEplace	4
+Belleville	NAMEplace	4
+Berry	NAMEpers	4
+Bertrand	NAMEpers	4
+Blaru	NAMEplace	4
+Bourgogne	NAMEplace	4
+Camille Desmoulins	NAMEpers	4
+Cent-Jours	NAMEpers	4
+Chabouillet	NAMEpers	4
+Christophe Colomb	NAMEpers	4
+Cicéron	NAME	4
+Clinton	NAMEpers	4
+Cléopâtre	NAMEpers	4
+Condorcet	NAME	4
+Cougourde	NAMEpers	4
+Cougourde d' Aix	NAMEplace	4
+Croix-de-Colbas	NAMEpers	4
+Cromwell	NAMEpers	4
+Cunette	NAMEpers	4
+Diogène Laërce	NAMEpers	4
+Droit-Mur	NAMEpers	4
+Fourier	NAMEpers	4
+François Ier	NAMEpers	4
+Friedland	NAMEpers	4
+Georges Pontmercy	NAMEpers	4
+Grenoble	NAMEplace	4
+Issy	NAMEpers	4
+Jacquin Labarre	NAMEpers	4
+Jean Mathieu	NAMEpers	4
+Joubert	NAMEpers	4
+Jéhovah	NAMEpers	4
+Kellermann	NAMEpers	4
+Lenoir	NAMEpers	4
+Louis 11	NAMEpers	4
+Machiavel	NAME	4
+Marche	NAMEplace	4
+Marie	NAMEpers	4
+Marseille	NAMEplace	4
+Matth	NAMEpers	4
+Minerve	NAME	4
+Morland	NAMEpers	4
+Moïse	NAME	4
+Ménilmontant	NAMEpers	4
+N	NAMEpers	4
+Neuilly	NAMEplace	4
+Olympe	NAMEpers	4
+Paméla	NAMEpers	4
+Pan	NAME	4
+Pierron	NAMEpers	4
+Pyrénées	NAMEpers	4
+Quiot	NAMEpers	4
+Rhin	NAMEpers	4
+Saint-Jean	NAMEplace	4
+Saint-Simon	NAMEpers	4
+Salomon	NAMEpers	4
+Suisse	NAMEplace	4
+Thermopyles	NAMEpers	4
+Thèbes	NAMEpers	4
+Thérèse	NAMEpers	4
+Tranchelevent	NAMEpers	4
+Trois-Dauphins	NAMEpers	4
+Val-de-Grâce	NAMEpers	4
+Victurnien	NAMEpers	4
+Zelma	NAMEpers	4
+de Berry	NAMEpers	4
+de France	NAMEpers	4
+de Genlis	NAMEpers	4
+de Rome	NAMEpers	4
+de Saint-Germain	NAMEpers	4
+faubourg du temple	NAMEplace	4
+rue Clocheperce	NAMEplace	4
+rue Culture-Sainte-Catherine	NAMEplace	4
+rue Ménilmontant	NAMEplace	4
+rue Rambuteau	NAMEplace	4
+rue Saint-Dominique	NAMEplace	4
+rue Saint-Honoré	NAMEplace	4
+rue de Paris	NAMEplace	4
+rue de Rivoli	NAMEplace	4
+rue du Roi-de-Sicile	NAMEplace	4
+rue pavé	NAMEplace	4
+saint Bernard	NAMEpers	4
+18	NAMEpers	3
+Albe	NAMEpers	3
+Alix	NAMEpers	3
+Alvarès	NAMEpers	3
+Anceau	NAMEpers	3
+Ancône	NAMEplace	3
+Antin	NAMEplace	3
+Aristogiton	NAMEpers	3
+Auguste	NAMEpers	3
+Basile	NAMEpers	3
+Beaulieu	NAMEplace	3
+Beaumarchais	NAME	3
+Beccaria	NAMEpers	3
+Bouchard	NAMEpers	3
+Boulonnais	NAMEplace	3
+Brennus	NAMEpers	3
+Byron	NAMEpers	3
+Caton	NAMEpers	3
+Caïn	NAMEpers	3
+Chanvrerie	NAMEpers	3
+Charlot	NAMEpers	3
+Chastelar	NAMEpers	3
+Chine	NAMEplace	3
+Château-d'Eau	NAMEpers	3
+Claude	NAMEpers	3
+Coligny	NAMEplace	3
+Coromandel	NAMEpers	3
+Cravatte	NAMEpers	3
+Dambray	NAMEpers	3
+Deum	NAMEpers	3
+Deux-Milliards	NAMEpers	3
+Dieu Seigneur	NAME	3
+Dismas	NAMEpers	3
+Don	NAMEpers	3
+Dubois	NAMEpers	3
+Duchêne	NAMEpers	3
+Duplat	NAMEpers	3
+Durutte	NAMEpers	3
+Ecclésiaste	NAMEpers	3
+Edon	NAMEplace	3
+Escoubleau	NAMEpers	3
+Fesch	NAMEpers	3
+Flandre	NAMEpers	3
+Fontevrault	NAMEpers	3
+Félix Tholomyès	NAMEpers	3
+Gans	NAMEplace	3
+Gerbaud	NAMEpers	3
+Gesmas	NAMEpers	3
+Gournay	NAMEplace	3
+Géborand	NAMEpers	3
+Henri 2	NAMEpers	3
+Hercle	NAMEpers	3
+Hercule	NAMEpers	3
+Homme-Armé	NAMEpers	3
+Hugo	NAMEpers	3
+Ivry	NAMEpers	3
+Jeanne d' arc	NAMEpers	3
+Job	NAMEpers	3
+Joya	NAMEpers	3
+Jupiter	NAME	3
+Kléber	NAMEpers	3
+Lacoste	NAMEplace	3
+Limoges	NAMEplace	3
+Lodi	NAMEpers	3
+Louis 13	NAMEpers	3
+Louis XVII	NAMEpers	3
+Lunebourg	NAMEpers	3
+Madrid	NAMEplace	3
+Maitland	NAMEpers	3
+Malaquais	NAMEpers	3
+Malte	NAMEplace	3
+Mantoue	NAMEpers	3
+Marceau	NAMEpers	3
+Marie-Claude	NAMEpers	3
+Marne	NAMEplace	3
+Maubert	NAMEpers	3
+Maubuée	NAMEpers	3
+Mavot	NAMEpers	3
+Metternich	NAMEpers	3
+Michel	NAMEpers	3
+Milhaud	NAMEplace	3
+Milton	NAME	3
+Mont-Cassin	NAMEpers	3
+Moskowa	NAMEpers	3
+Mouffetard	NAMEpers	3
+Méditerranée	NAMEplace	3
+Mélas	NAMEpers	3
+Nanterre	NAMEplace	3
+Naples	NAMEplace	3
+Nicolas	NAMEpers	3
+Ninive	NAMEpers	3
+P	NAMEpers	3
+Pabourgeot	NAMEpers	3
+Pascal	NAMEpers	3
+Phocion	NAMEpers	3
+Picpus	NAMEpers	3
+Pierre	NAMEpers	3
+Plaute	NAMEpers	3
+Poitiers	NAMEplace	3
+Polignac	NAMEplace	3
+Prométhée	NAME	3
+Prouvaire	NAMEpers	3
+Puget	NAMEpers	3
+Queyras	NAMEpers	3
+Richelieu	NAMEpers	3
+Roguet	NAMEpers	3
+Rollin	NAME	3
+Roméo	NAMEpers	3
+Rothschild	NAMEpers	3
+Royol	NAMEpers	3
+Saint-Esprit	NAMEplace	3
+Saint-Eustache	NAMEplace	3
+Saint-Georges	NAMEplace	3
+Sainte-Avoye	NAMEpers	3
+Sainte-Geneviève	NAMEplace	3
+Sainte-Mechtilde	NAMEpers	3
+Sancy	NAMEplace	3
+Saragosse	NAMEpers	3
+Savigny	NAMEplace	3
+Shakespeare	NAME	3
+Société	NAME	3
+Somme	NAMEplace	3
+Sorbonne	NAMEpers	3
+Soye	NAMEplace	3
+Sully-Prudhomme	NAMEpers	3
+Sylla	NAMEpers	3
+T.	NAMEpers	3
+Talleyrand	NAME	3
+Tartuffe	NAMEpers	3
+Tibère	NAMEpers	3
+Turgot	NAMEpers	3
+Urbain Fabre	NAMEpers	3
+Var	NAMEplace	3
+Varsovie	NAMEpers	3
+Vaubois	NAMEpers	3
+Vieilles-Haudriettes	NAMEpers	3
+Villers	NAMEplace	3
+Vivian	NAMEpers	3
+Wagram	NAMEpers	3
+Watteau	NAMEpers	3
+ascension	NAMEpers	3
+chose	NAMEpers	3
+de Condé	NAMEpers	3
+de Courfeyrac	NAMEpers	3
+de Léon	NAMEpers	3
+de Prusse	NAMEpers	3
+de Talleyrand	NAMEpers	3
+de Villèle	NAMEpers	3
+innocent	NAMEpers	3
+mont Aventin	NAMEplace	3
+rue Aubry-le-Boucher	NAMEplace	3
+rue Blomet	NAMEplace	3
+rue Croulebarbe	NAMEplace	3
+rue Michel-le-Comte	NAMEpers	3
+rue Montorgueil	NAMEplace	3
+rue Saint-Martin	NAMEplace	3
+rue Transnonain	NAMEplace	3
+rue Vieille-du-Temple	NAMEplace	3
+rue cassette	NAMEplace	3
+rue de Chaffaut	NAMEplace	3
+rue de Vaugirard	NAMEplace	3
+rue du Chemin-Vert-Saint-Antoine	NAMEplace	3
+rue du cadran	NAMEplace	3
+rue du chaume	NAMEplace	3
+rue madame	NAMEplace	3
+Écosse	NAMEplace	3
+2	NAMEpers	2
+Abel	NAMEpers	2
+Aisne	NAMEplace	2
+Alceste	NAMEpers	2
+Alexandrie	NAMEpers	2
+Alfred	NAMEpers	2
+Alighieri	NAMEpers	2
+Alphonse	NAMEpers	2
+Ambiorix	NAMEpers	2
+Amelot	NAMEpers	2
+Apollon	NAME	2
+Apulée	NAMEpers	2
+Arbre-sec	NAMEpers	2
+Arche-Marion	NAMEpers	2
+Artevelde	NAMEpers	2
+Arthurs	NAMEpers	2
+Aube	NAMEplace	2
+Aubervilliers	NAMEplace	2
+Augustin	NAMEpers	2
+Avignon	NAMEplace	2
+B 100 il	NAMEpers	2
+Bagration	NAMEpers	2
+Balzac	NAME	2
+Baléares	NAMEplace	2
+Bara	NAMEpers	2
+Bathurst	NAMEpers	2
+Bautzen	NAMEpers	2
+Bayonne	NAMEplace	2
+Benoît	NAMEpers	2
+Bercy	NAMEpers	2
+Bernard Guidonis	NAMEpers	2
+Berthier	NAMEpers	2
+Bestuchef	NAMEpers	2
+Bienvenu Myriel	NAMEpers	2
+Binche	NAMEpers	2
+Bizarro	NAMEpers	2
+Bièvre	NAMEpers	2
+Blackman	NAMEpers	2
+Blaise Poutrain	NAMEpers	2
+Bolivar	NAMEpers	2
+Bondy	NAMEplace	2
+Bordeaux	NAMEplace	2
+Boucherat	NAMEpers	2
+Bourgaillard	NAMEpers	2
+Bouvines	NAMEplace	2
+Brest	NAMEplace	2
+Briançon	NAMEplace	2
+Brienne	NAMEplace	2
+Brune	NAMEpers	2
+Buonaparté	NAMEpers	2
+Bérulle	NAMEplace	2
+Bérésina	NAMEpers	2
+COSETTE	NAMEpers	2
+Cahors	NAMEplace	2
+Calas	NAMEpers	2
+Caligula	NAMEpers	2
+Carnot	NAMEpers	2
+Carthage	NAMEpers	2
+Casimir Perier	NAMEpers	2
+Castaing	NAMEpers	2
+Cauteretz	NAMEpers	2
+Caïphe	NAMEpers	2
+Chapelle-Saint-Lambert	NAMEpers	2
+Charles-Quint	NAMEpers	2
+Charlotte	NAMEpers	2
+Charonne	NAMEpers	2
+Charras	NAMEplace	2
+Charte-Touquet	NAMEpers	2
+Chartres	NAMEplace	2
+Chatou	NAMEplace	2
+Chemin-Vert	NAMEpers	2
+Christi	NAMEpers	2
+Clairvaux	NAMEpers	2
+Claude gueux	NAMEpers	2
+Coblentz	NAMEpers	2
+Colbert	NAMEpers	2
+Colville	NAMEpers	2
+Coupdesabot	NAMEpers	2
+Coupelevent	NAMEpers	2
+Cournand	NAME	2
+Courtille	NAMEpers	2
+Célimène	NAMEpers	2
+César de bus	NAME	2
+Dauphiné	NAMEplace	2
+Dautun	NAMEpers	2
+David d' Angers	NAMEpers	2
+Decazes	NAMEpers	2
+Delille	NAMEpers	2
+Delorme	NAMEpers	2
+Delphes	NAMEpers	2
+Delvincourt	NAMEpers	2
+Demi-Liard	NAMEpers	2
+Diane	NAMEpers	2
+Dieu Jésus-Christ	NAME	2
+Dieu de Dieu	NAME	2
+Diomède	NAME	2
+Domitien	NAMEpers	2
+Domon	NAMEpers	2
+Donzelot	NAMEpers	2
+Douai	NAMEplace	2
+Dresde	NAMEpers	2
+Drouet	NAMEpers	2
+Dumont	NAMEpers	2
+Dupuytren	NAMEpers	2
+Dyle	NAMEpers	2
+Décarrons	NAMEpers	2
+Désaugiers	NAMEpers	2
+Ecce	NAMEpers	2
+Enfants-Rouges	NAMEpers	2
+Eponine	NAMEpers	2
+Erlon	NAMEplace	2
+Esplandian	NAMEpers	2
+Euphrasie Fauchelevent	NAMEpers	2
+Euripide	NAME	2
+Euryanthe	NAMEpers	2
+Eusèbe	NAMEpers	2
+Falstaff	NAMEpers	2
+Ferdinand	NAMEpers	2
+Fex	NAMEpers	2
+Filspierre	NAMEpers	2
+Folard	NAMEpers	2
+Fontenoy	NAMEplace	2
+Forioso	NAMEpers	2
+Forêt-Noire	NAMEpers	2
+Fouché	NAMEpers	2
+Fualdès	NAMEpers	2
+Fumade	NAMEpers	2
+Félix	NAMEpers	2
+Gaillon	NAMEplace	2
+Garibaldi	NAMEpers	2
+Gaspard Bès	NAMEpers	2
+Gassendi	NAMEpers	2
+Gestas	NAMEplace	2
+Goblet	NAMEpers	2
+Goethe	NAME	2
+Goliath	NAMEpers	2
+Gordon	NAMEpers	2
+Greuze	NAMEpers	2
+Gribeauval	NAMEpers	2
+Grimod de la Reynière	NAMEpers	2
+Gros-Caillou	NAMEpers	2
+Grégoire	NAMEpers	2
+Guillaume	NAMEpers	2
+Guillaume Van Kylsom	NAMEpers	2
+Guilleminot	NAMEpers	2
+Géorgiques	NAMEpers	2
+Gérard	NAMEpers	2
+Hacke	NAMEpers	2
+Hal	NAMEpers	2
+Harmodius	NAMEpers	2
+Hautes-Alpes	NAMEplace	2
+Havré	NAMEpers	2
+Haxo	NAMEpers	2
+Heidelberg	NAMEpers	2
+Hercule Farnèse	NAMEpers	2
+Hernani	NAMEpers	2
+Hongrie	NAMEplace	2
+Hulpe	NAMEpers	2
+Hébert	NAMEpers	2
+Hélène	NAMEpers	2
+Irlande	NAMEplace	2
+Isabeau	NAMEpers	2
+Isaïe	NAMEpers	2
+Isis	NAME	2
+Jacques	NAMEpers	2
+Je-nie-Dieu	NAMEpers	2
+Jean-François Senault	NAMEpers	2
+Jean-le-Cric	NAMEpers	2
+John Brown	NAMEpers	2
+Jolllly	NAMEpers	2
+Joseph de Maistre	NAMEpers	2
+Joséphine	NAMEpers	2
+Julien	NAMEpers	2
+Justinien	NAME	2
+Jérusalem	NAMEpers	2
+Keksekça	NAMEpers	2
+Kekçaa	NAMEpers	2
+Kosciusko	NAMEpers	2
+Kruideniers	NAMEpers	2
+Lamennais	NAMEpers	2
+Lefebvre-Desnouettes	NAMEpers	2
+Leipzig	NAMEpers	2
+Lemblin	NAMEpers	2
+Lesgueules	NAMEpers	2
+Letellier	NAMEpers	2
+Lille	NAMEplace	2
+Lise	NAMEpers	2
+Lombier	NAMEpers	2
+Longchamps	NAMEplace	2
+Louis	NAMEpers	2
+Louis XV	NAMEpers	2
+Louis XVI	NAMEpers	2
+Louis XVIII	NAMEpers	2
+Louis le grand	NAMEpers	2
+Louison	NAMEpers	2
+Louvel	NAMEpers	2
+Louvois	NAMEplace	2
+Loyson	NAMEpers	2
+Luther	NAME	2
+Lutzen	NAMEpers	2
+Lègle	NAMEpers	2
+Mack	NAMEpers	2
+Mahomet	NAMEpers	2
+Maillard	NAMEpers	2
+Manuel	NAMEpers	2
+Marc-Aurèle	NAMEpers	2
+Marchangy	NAMEpers	2
+Marché-aux-Chevaux	NAMEpers	2
+Marcognet	NAMEpers	2
+Maria	NAMEpers	2
+Marie-Antoinette	NAMEpers	2
+Marigny	NAMEplace	2
+Marnix	NAMEpers	2
+Martainville	NAMEpers	2
+Mathusalem	NAMEpers	2
+Mayence	NAMEpers	2
+Merlonus Horstius	NAMEpers	2
+Mesmer	NAMEpers	2
+Messaline	NAMEpers	2
+Meudon	NAMEplace	2
+Michel-Ange	NAMEpers	2
+Mitchell	NAMEpers	2
+Mont-Saint-Éloy	NAMEpers	2
+Montauban	NAMEplace	2
+Montebello	NAMEpers	2
+Montenotte	NAMEpers	2
+Montfaucon	NAMEplace	2
+Montmirail	NAMEplace	2
+Montreuil	NAMEplace	2
+Moscou	NAMEplace	2
+Muffling	NAMEpers	2
+Murat	NAMEpers	2
+Musichetta	NAMEpers	2
+Naigeon	NAMEpers	2
+Nantes	NAMEplace	2
+Needham	NAMEpers	2
+Newton	NAMEpers	2
+Nogent	NAMEplace	2
+Nonaindières	NAMEpers	2
+Norvège	NAMEplace	2
+Némorin	NAMEpers	2
+Ompteda	NAMEpers	2
+Orme-Saint-Gervais	NAMEpers	2
+Oscar	NAMEpers	2
+Palafox	NAMEpers	2
+Palais-Royal	NAMEpers	2
+Pas-de-Calais	NAMEplace	2
+Paul	NAMEpers	2
+Perrault	NAME	2
+Philippe de Néri	NAMEpers	2
+Pigault-Lebrun	NAMEpers	2
+Pirée	NAMEpers	2
+Pisacane	NAMEpers	2
+Platon	NAME	2
+Pontoise	NAMEplace	2
+Popincourt	NAMEpers	2
+Porrichinelle	NAMEpers	2
+Porte-Saint-Martin	NAMEpers	2
+Porter	NAMEpers	2
+Pot-aux-Roses	NAMEpers	2
+Priape	NAME	2
+Pritchard	NAMEpers	2
+Prouvaires	NAMEpers	2
+Prusse	NAMEpers	2
+Puteaux	NAMEplace	2
+Pylade	NAMEpers	2
+Pélage	NAMEpers	2
+Quatre-Bras	NAMEpers	2
+Quénisset	NAMEpers	2
+R	NAMEpers	2
+Raphaël	NAMEpers	2
+Roland	NAMEpers	2
+Rouen	NAMEplace	2
+Royer-Collard	NAMEpers	2
+Rubicon	NAMEpers	2
+Rylandt	NAMEpers	2
+Régnier	NAMEpers	2
+Saguet	NAMEpers	2
+Saint-Barthélemy	NAMEplace	2
+Saint-Benoît	NAMEplace	2
+Saint-Bernard	NAMEplace	2
+Saint-Denis	NAMEplace	2
+Saint-Germain	NAMEplace	2
+Saint-Germain-des-Prés	NAMEplace	2
+Saint-Lazare	NAMEpers	2
+Saint-Leu	NAMEplace	2
+Saint-Victor	NAMEplace	2
+Sainte-Aure	NAMEpers	2
+Sainte-Marguerite	NAMEplace	2
+Sainte-Marthe	NAMEplace	2
+Saintonge	NAMEplace	2
+Sainval	NAMEpers	2
+Salamanque	NAMEpers	2
+Schinderhannes	NAMEpers	2
+Seigneur	NAME	2
+Seine-et-Oise	NAMEplace	2
+Senez	NAMEplace	2
+Senlis	NAMEplace	2
+Sept-Billards	NAMEpers	2
+Sera	NAMEpers	2
+Sicile	NAMEpers	2
+Sieyès	NAMEpers	2
+Sisyphe	NAME	2
+Spartacus	NAMEpers	2
+Strasbourg	NAMEplace	2
+Strongylion	NAMEpers	2
+Stuarts	NAMEpers	2
+Suchet	NAMEpers	2
+Suresnes	NAMEplace	2
+Sybaris	NAMEpers	2
+Talavera	NAMEpers	2
+Tantale	NAME	2
+Théodule Gille Normand	NAMEpers	2
+Tibre	NAMEpers	2
+Tivoli	NAMEpers	2
+Tolleron	NAMEpers	2
+Trestaillon	NAMEpers	2
+Troie	NAMEpers	2
+Turenne	NAMEplace	2
+Turquie	NAMEplace	2
+U.F.	NAMEpers	2
+Ulbach	NAMEpers	2
+Ulm	NAMEpers	2
+Uxbridge	NAMEpers	2
+Valois	NAMEpers	2
+Vandeleur	NAMEpers	2
+Vanves	NAMEplace	2
+Vendée	NAMEplace	2
+Versailles	NAMEplace	2
+Vidocq	NAMEpers	2
+Vignes-Saint-Marcel	NAMEpers	2
+Villemomble	NAMEplace	2
+Vincent de Paul	NAMEpers	2
+Wathier	NAMEpers	2
+Wavre	NAMEpers	2
+Zieten	NAMEpers	2
+Zoïle	NAMEpers	2
+Zétulbé	NAMEpers	2
+barge	NAMEpers	2
+corbeau	NAMEpers	2
+d' Angoulême	NAMEpers	2
+d' Artois	NAMEpers	2
+d' Ursule	NAMEpers	2
+d' orange	NAMEpers	2
+de Blemeur	NAMEpers	2
+de Digne	NAMEpers	2
+de Grand-Champ	NAMEpers	2
+de La Fayette	NAMEpers	2
+de La Mothe	NAMEpers	2
+de Neufchâteau	NAMEpers	2
+de Nevers	NAMEpers	2
+de R.	NAMEpers	2
+de Roquelaure	NAMEpers	2
+de Sassenaye	NAMEpers	2
+de Sourdis	NAMEpers	2
+de Valentinois	NAMEpers	2
+de Vaublanc	NAMEpers	2
+de bar	NAMEpers	2
+de cartouche	NAMEpers	2
+de sale	NAMEpers	2
+faubourg Antoine	NAMEpers	2
+golfe Juan	NAMEpers	2
+hôtel Lamoignon	NAMEplace	2
+hôtel de la Porte-Saint-Jacques	NAMEplace	2
+janvier	NAMEpers	2
+lynch	NAMEpers	2
+mademoiselle Cosette	NAMEpers	2
+maître Renard	NAMEpers	2
+mont Saint-Michel	NAMEplace	2
+présentation	NAMEpers	2
+rue Bassompierre	NAMEplace	2
+rue Beaubourg	NAMEplace	2
+rue Jean-Jacques-Rousseau	NAMEpers	2
+rue Mézières	NAMEplace	2
+rue Popincourt	NAMEplace	2
+rue Saint-Hyacinthe	NAMEplace	2
+rue Sainte-Avoye	NAMEplace	2
+rue Sainte-Croix-de-la-Bretonnerie	NAMEplace	2
+rue Servandoni	NAMEplace	2
+rue de Charonne	NAMEplace	2
+rue de Chelles	NAMEplace	2
+rue de Lourcine	NAMEplace	2
+rue de Normandie	NAMEplace	2
+rue de Thorigny	NAMEplace	2
+rue de l' écharpe	NAMEplace	2
+rue de la barrière	NAMEplace	2
+rue de la paix	NAMEplace	2
+rue de sevrer	NAMEplace	2
+rue du Chemin-Vert	NAMEplace	2
+rue du Contrat-Social	NAMEplace	2
+rue du Parc-Royal	NAMEplace	2
+rue du Petit-Musc	NAMEplace	2
+rue du Pont-aux-Choux	NAMEplace	2
+rue greneter	NAMEplace	2
+saint Jérôme	NAMEpers	2
+saint Pierre	NAMEpers	2
+Écouen	NAMEpers	2
+Épisthate	NAMEpers	2
+île Louviers	NAMEplace	2
+10	NAMEpers	1
+9	NAMEpers	1
+A-B-C	NAMEpers	1
+A-B-C. c'est	NAMEpers	1
+A.	NAMEpers	1
+AEantide	NAMEpers	1
+AUSTERLITS	NAMEpers	1
+Abarbarée	NAMEpers	1
+Abd-el-Kader	NAMEpers	1
+Ablère	NAMEpers	1
+Aboukir	NAMEpers	1
+Abraham	NAMEpers	1
+Abélard	NAME	1
+Acarus	NAMEpers	1
+Accons	NAMEplace	1
+Accouplez	NAMEpers	1
+Achille	NAMEpers	1
+Actium	NAMEpers	1
+Adamastor	NAMEpers	1
+Adige	NAMEpers	1
+Adolphe	NAMEpers	1
+Adonaï	NAMEpers	1
+Adrets	NAMEpers	1
+Adrien-Charles de Gramont	NAMEpers	1
+Adélaïde	NAMEpers	1
+Agamemnon	NAME	1
+Agathe	NAMEpers	1
+Agathoclès	NAMEpers	1
+Agier	NAMEpers	1
+Agnese	NAMEpers	1
+Agnès	NAMEpers	1
+Agrippa d' Aubigné	NAMEpers	1
+Aigrefeuille	NAMEplace	1
+Ailly	NAMEplace	1
+Ailly-le-Haut-Clocher	NAMEplace	1
+Ain	NAMEplace	1
+Ajax	NAME	1
+Alava	NAMEpers	1
+Albion	NAMEpers	1
+Alcala	NAMEpers	1
+Alcesimarchus	NAMEpers	1
+Alcippe	NAMEpers	1
+Aldebaran	NAMEpers	1
+Aldobrandini	NAMEpers	1
+Alençon	NAMEplace	1
+Alexandre 7	NAMEpers	1
+Alexis	NAMEpers	1
+Algérie	NAMEplace	1
+Algésiras	NAMEpers	1
+Alicante	NAMEpers	1
+Allegri	NAMEpers	1
+Alleluia	NAMEpers	1
+Alleurs	NAMEpers	1
+Allonouaite	NAMEpers	1
+Allons-nous	NAMEpers	1
+Alloz	NAMEpers	1
+Alsace	NAMEplace	1
+Alta	NAMEpers	1
+Alvinzi	NAMEpers	1
+Alzey	NAMEpers	1
+Alèthe	NAMEpers	1
+Amasie	NAMEpers	1
+Ambubaiarum	NAMEpers	1
+Amiens	NAMEplace	1
+Amor	NAMEpers	1
+Amphiaraüs	NAMEpers	1
+Amphitrite	NAME	1
+Amsterdam	NAMEplace	1
+Anacharsis Cloots	NAMEpers	1
+Anacéphore	NAMEpers	1
+Anciot	NAMEpers	1
+Andelys	NAMEpers	1
+Andernach	NAMEpers	1
+Andromède	NAME	1
+Andujar	NAMEpers	1
+Angers	NAMEplace	1
+Angélique	NAMEpers	1
+Anne	NAMEpers	1
+Anne Radcliffe	NAMEpers	1
+Annibals	NAMEpers	1
+Ansiaux	NAMEpers	1
+Antiloque	NAMEpers	1
+Antinoüs	NAMEpers	1
+Antoine Albin de Romainville	NAMEpers	1
+Antoine de Mesgrigny	NAMEpers	1
+Antée	NAME	1
+Anvers	NAMEplace	1
+Apollon du belvédère	NAME	1
+Arabie	NAMEpers	1
+Arago	NAMEpers	1
+Arbre-Sec	NAMEpers	1
+Arbre-de-Cracovie	NAMEpers	1
+Archimède	NAMEpers	1
+Arcis	NAMEpers	1
+Arcis-sur-Aube	NAMEplace	1
+Arcueil	NAMEplace	1
+Argirippe	NAMEpers	1
+Argos	NAMEpers	1
+Arisba	NAMEpers	1
+Aristophane	NAME	1
+Aristote	NAME	1
+Arles	NAMEplace	1
+Arlincourt	NAMEpers	1
+Armand Carrel	NAMEpers	1
+Armuyr	NAMEpers	1
+Arnaud de Bresce	NAME	1
+Arnault	NAMEpers	1
+Arnay-le-Duc	NAMEplace	1
+Arnoul Wion	NAMEpers	1
+Arnould de Blankenheim	NAMEpers	1
+Arouet	NAMEpers	1
+Artaxerce	NAMEpers	1
+Arthur	NAMEpers	1
+Artois	NAMEplace	1
+Artonge	NAMEpers	1
+Arétaon	NAMEpers	1
+Asinarium	NAMEpers	1
+Asnières	NAMEplace	1
+Assaisonnez-le	NAMEpers	1
+Assyrie	NAMEpers	1
+Asturies	NAMEpers	1
+Astyale	NAMEpers	1
+Atala avec	NAMEpers	1
+Attila	NAMEpers	1
+Aubiers	NAMEpers	1
+Aubry	NAMEpers	1
+Auch	NAMEplace	1
+Audincourt	NAMEplace	1
+Audry de Puyraveau	NAMEpers	1
+Aug	NAMEpers	1
+Augias	NAMEpers	1
+Aulu-Gelle	NAMEpers	1
+Austerlitz de Napoléon	NAME	1
+Austin Castillejo	NAMEpers	1
+Axyle	NAMEpers	1
+Azincourt	NAMEplace	1
+Azraël	NAMEpers	1
+B. au	NAMEpers	1
+BRUJON	NAMEpers	1
+Babel	NAMEpers	1
+Bacche	NAMEpers	1
+Bachelu	NAMEpers	1
+Bacheux	NAMEpers	1
+Bacon	NAME	1
+Bacot	NAMEpers	1
+Badajoz	NAMEpers	1
+Bal-Sauvage	NAMEpers	1
+Balaguier	NAMEpers	1
+Balatron	NAMEpers	1
+Ballesteros	NAMEpers	1
+Banès	NAMEpers	1
+Baour-Lormian	NAMEpers	1
+Barabbas	NAMEpers	1
+Barbari	NAMEpers	1
+Barberini	NAMEpers	1
+Barberousse	NAMEpers	1
+Barcelone	NAMEplace	1
+Barcelonnette	NAMEplace	1
+Barillerie	NAMEpers	1
+Baring	NAMEpers	1
+Barius	NAMEpers	1
+Barleycourt	NAMEpers	1
+Barne	NAMEpers	1
+Barneville	NAMEpers	1
+Barra	NAMEpers	1
+Barras	NAMEplace	1
+Barre-Carrosse	NAMEpers	1
+Barrecarrosse	NAMEpers	1
+Barricade-Merry	NAMEpers	1
+Barry	NAMEpers	1
+Bartholo	NAMEpers	1
+Baruch	NAMEpers	1
+Basiles	NAMEpers	1
+Basses-Alpes	NAMEpers	1
+Batelote	NAMEpers	1
+Battemolle	NAMEpers	1
+Baucis	NAME	1
+Baudoyer	NAMEpers	1
+Baumarchais	NAMEpers	1
+Bavoux	NAMEpers	1
+Beauce	NAMEplace	1
+Beaujon	NAMEpers	1
+Beausset	NAMEpers	1
+Beautreillis	NAMEpers	1
+Beauvais	NAMEplace	1
+Belfort	NAMEplace	1
+Bellart	NAMEpers	1
+Bellavesne	NAMEpers	1
+Belle-Jambe	NAMEpers	1
+Bellevue	NAMEpers	1
+Bellone	NAME	1
+Belzébuth	NAMEpers	1
+Bem	NAMEpers	1
+Ben Lothian	NAMEpers	1
+Bengy-Puy-Vallée	NAMEpers	1
+Benoît 8	NAMEpers	1
+Benvenuto Cellini	NAMEpers	1
+Ber	NAMEpers	1
+Bernardins	NAMEpers	1
+Bernier	NAMEpers	1
+Berquin	NAME	1
+Besançon	NAMEplace	1
+Beugnot	NAMEpers	1
+Beure	NAMEplace	1
+Bibere Tiberim	NAMEpers	1
+Bienvenu	NAMEpers	1
+Bigottini	NAMEpers	1
+Billancourt	NAMEplace	1
+Blancard	NAMEpers	1
+Blanchard	NAMEpers	1
+Blanche	NAMEpers	1
+Blaye	NAMEplace	1
+Blomet	NAMEpers	1
+Blondeau Nasica	NAMEpers	1
+Blondeau le nez	NAMEpers	1
+Blü-cher	NAMEpers	1
+Blücher l' Allemagne	NAMEplace	1
+Boileau	NAME	1
+Bois-Seigneur-Isaac	NAMEpers	1
+Boischevron	NAMEpers	1
+Boitsfort	NAMEpers	1
+Bojean	NAMEpers	1
+Bologne	NAMEplace	1
+Bonaparte scapin	NAMEpers	1
+Bonapartes	NAMEpers	1
+Bories	NAMEpers	1
+Bos	NAMEpers	1
+Botocudos	NAMEpers	1
+Botzaris	NAMEpers	1
+Boubers-sur-Canche	NAMEplace	1
+Boubière	NAMEpers	1
+Boucolion	NAMEpers	1
+Bouginier	NAMEpers	1
+Bougival	NAMEplace	1
+Bouh	NAMEpers	1
+Boujean	NAMEpers	1
+Boulard	NAMEpers	1
+Bouliner	NAMEpers	1
+Boulogne	NAMEplace	1
+Bourgoin	NAMEpers	1
+Bourguin	NAMEpers	1
+Bournon-Malarme	NAMEpers	1
+Boyanches	NAMEpers	1
+Brack	NAMEpers	1
+Brandywine	NAMEpers	1
+Breul	NAMEpers	1
+Briarée	NAME	1
+Brignolles	NAMEpers	1
+Bro	NAMEpers	1
+Brocken	NAMEpers	1
+Bruguière de Sorsum	NAMEpers	1
+Bruqueselles	NAMEpers	1
+Brésil	NAMEplace	1
+Buona-Parte	NAMEpers	1
+Burgonmuche	NAMEpers	1
+Burke	NAMEpers	1
+Burtot	NAMEpers	1
+Buseaupied	NAMEpers	1
+Busiris	NAME	1
+Buzançais	NAMEplace	1
+Béjean	NAMEpers	1
+Bélisaire	NAMEpers	1
+Bélissen	NAMEpers	1
+Bénarès	NAMEpers	1
+C'eût	NAMEpers	1
+Caballeros	NAMEpers	1
+Cadodaches	NAMEpers	1
+Caen	NAMEplace	1
+Cagliostro	NAMEpers	1
+Caillard	NAMEpers	1
+Callot	NAMEpers	1
+Callummore	NAMEpers	1
+Calvin	NAMEpers	1
+Camargo	NAMEpers	1
+Cambacérès	NAMEpers	1
+Cambis	NAMEpers	1
+Camblin	NAMEpers	1
+Cambrai	NAMEplace	1
+Cambyse	NAMEpers	1
+Campan	NAMEpers	1
+Campaspe	NAMEpers	1
+Canaries	NAMEpers	1
+Canidie	NAMEpers	1
+Canuel	NAMEpers	1
+Capel	NAMEpers	1
+Capet	NAMEpers	1
+Capitulez	NAMEpers	1
+Capoue	NAMEpers	1
+Cappadoce	NAMEpers	1
+Caracalla	NAMEpers	1
+Caracara Polyborus	NAMEpers	1
+Carbonneau	NAMEpers	1
+Carency	NAMEplace	1
+Carmagnolet	NAMEpers	1
+Caroline du sud	NAMEpers	1
+Caron	NAMEpers	1
+Caryste	NAMEpers	1
+Casimir-Perier	NAMEpers	1
+Cassandres	NAMEpers	1
+Castelcicala	NAMEpers	1
+Castlereagh	NAMEpers	1
+Castratus	NAMEpers	1
+Catherine 2	NAMEpers	1
+Caumartin	NAMEpers	1
+Cavaignac de Baragne	NAMEpers	1
+Censier-Mouffetard	NAMEpers	1
+Ceracchi	NAMEpers	1
+Cerisoles	NAMEpers	1
+Chaldée	NAMEpers	1
+Champ-de-Mai	NAMEpers	1
+Champagne	NAMEplace	1
+Champaubert	NAMEplace	1
+Championnet	NAMEpers	1
+Chan	NAMEpers	1
+Chan Mathieu	NAMEpers	1
+Chanaan	NAMEpers	1
+Chanteloup	NAMEplace	1
+Chanverrerie	NAMEpers	1
+Chapelle-Gonaguet	NAMEpers	1
+Chappedelaine	NAMEpers	1
+Charcellay	NAMEpers	1
+Charenton	NAMEpers	1
+Charing-Cross	NAMEpers	1
+Charleroi	NAMEpers	1
+Charles 1	NAMEpers	1
+Charles 2	NAMEpers	1
+Charles 9	NAMEpers	1
+Charles Brûlart de Genlis	NAMEpers	1
+Charles Myriel	NAMEpers	1
+Charles Nodier	NAMEpers	1
+Charles VI	NAMEpers	1
+Charles d' Orléans	NAMEpers	1
+Charles de Gondren	NAMEpers	1
+Charles-Albert	NAMEpers	1
+Charles-Antoine	NAMEpers	1
+Charles-Dix	NAMEpers	1
+Charlet	NAMEpers	1
+Charlotte Corday	NAMEpers	1
+Chassez-croisez	NAMEpers	1
+Chateaubriand Chateaubriant	NAME	1
+Chaumareix	NAMEpers	1
+Chauvelin	NAMEpers	1
+Chavailles	NAMEpers	1
+Cherbourg	NAMEplace	1
+Chevreuse	NAMEplace	1
+Chien-faute-de-nom	NAMEpers	1
+Chien-fou	NAMEpers	1
+Chloé	NAMEpers	1
+Chodruc Duclos	NAMEpers	1
+Choiseul	NAMEplace	1
+Choisy-le-Roi	NAMEplace	1
+Cholet	NAMEplace	1
+Chonodemaire	NAMEpers	1
+Chosette	NAMEpers	1
+Churchill	NAMEpers	1
+Châlon-sur-Saône	NAMEpers	1
+Châlons	NAMEplace	1
+Château-Arnoux	NAMEpers	1
+Château-Thierry	NAMEplace	1
+Châteauvieux	NAMEplace	1
+Châtelet de Paris	NAMEplace	1
+Châtillon	NAMEplace	1
+Chéréas	NAMEpers	1
+Cilicie	NAMEpers	1
+Cineres	NAMEpers	1
+Cinq-Cents	NAMEpers	1
+Cinque	NAMEpers	1
+Civrieux	NAMEplace	1
+Claire d' Albe	NAMEpers	1
+Clarence	NAMEpers	1
+Clausel	NAMEpers	1
+Clausel de Coussergues	NAMEpers	1
+Clausel de Montals	NAMEpers	1
+Clermont	NAMEplace	1
+Clermont-Tonnerre	NAMEplace	1
+Clichy	NAMEplace	1
+Cluny	NAMEplace	1
+Clusiens	NAMEpers	1
+Clélie	NAMEpers	1
+Co-cocorico	NAMEpers	1
+Cochefilet	NAMEpers	1
+Coco-Lacour	NAMEpers	1
+Coin-de-la-Borne	NAMEpers	1
+Colisée	NAMEpers	1
+Colnet	NAMEpers	1
+Colomb	NAMEpers	1
+Comanches	NAMEpers	1
+Conde de Rio Maïor	NAMEplace	1
+Condensons	NAMEpers	1
+Congrio	NAMEpers	1
+Constance	NAMEpers	1
+Constantin Pogonat	NAMEpers	1
+Constantine	NAMEpers	1
+Constantinople	NAMEpers	1
+Cook	NAMEpers	1
+Cooke	NAMEpers	1
+Corbière	NAMEpers	1
+Corinthum	NAMEpers	1
+Cornet-Dincourt	NAMEpers	1
+Cornwallis	NAMEpers	1
+Cosettes	NAMEpers	1
+Cottin	NAMEpers	1
+Cottret	NAMEpers	1
+Couloubroux	NAMEpers	1
+Cour-Batave	NAMEpers	1
+Coural	NAMEpers	1
+Courbevoie	NAMEplace	1
+Courtin	NAMEpers	1
+Coustou	NAMEpers	1
+Coutard	NAMEpers	1
+Coësre	NAMEpers	1
+Craon	NAMEplace	1
+Crebleur	NAMEpers	1
+Crinchon	NAMEpers	1
+Croix-Rouge	NAMEpers	1
+Crédeville	NAMEpers	1
+Crétet	NAMEpers	1
+Cugnet de Montarlot	NAMEplace	1
+Cujas	NAMEpers	1
+Cumberland	NAMEpers	1
+Cupidon	NAME	1
+Curculion	NAMEpers	1
+Curtillus	NAMEpers	1
+Cuvier	NAME	1
+Cybèle	NAME	1
+Cydathenæum	NAMEpers	1
+Cyrus	NAMEpers	1
+Cythère	NAME	1
+Célestine	NAMEpers	1
+César de Sabran de Forcalquier	NAMEplace	1
+DEFENSE d' afficher	NAMEpers	1
+DUCRAY-DUMINIL	NAMEpers	1
+Dacier de l' ordre	NAMEpers	1
+Dallemagne	NAMEpers	1
+Damasippe	NAMEpers	1
+Dantes	NAMEpers	1
+Danube	NAMEpers	1
+Daphnis	NAME	1
+Dappes	NAMEpers	1
+Daumont	NAMEpers	1
+Debacker	NAMEpers	1
+Debrye	NAMEpers	1
+Decrès	NAMEpers	1
+Dehaze	NAMEpers	1
+Delalot	NAMEpers	1
+Delancey	NAMEpers	1
+Delancre	NAMEpers	1
+Delaporte	NAMEpers	1
+Delaveau	NAMEpers	1
+Delaverderie	NAMEpers	1
+Deleuze	NAMEpers	1
+Della Genga	NAMEpers	1
+Demi-liards	NAMEpers	1
+Denis Thierry	NAMEpers	1
+Deo	NAMEpers	1
+Derbac	NAMEpers	1
+Desaix	NAMEpers	1
+Desaugiers	NAMEpers	1
+Deserre	NAMEpers	1
+Desmarets	NAMEpers	1
+Desnoyers	NAMEpers	1
+Desprez	NAMEpers	1
+Desrues	NAMEpers	1
+Dessolles	NAMEpers	1
+Deutz	NAMEpers	1
+Deux-Moulins	NAMEpers	1
+Deux-milliards	NAMEpers	1
+Devoluy	NAMEpers	1
+Diabolus	NAMEpers	1
+Dier	NAMEpers	1
+Dieu te	NAME	1
+Dimas	NAMEpers	1
+Din	NAMEpers	1
+Diodore	NAMEpers	1
+Dion-le-Mont	NAMEpers	1
+Dis-la	NAMEpers	1
+Dnop	NAMEpers	1
+Dodone	NAMEpers	1
+Don Alvarez	NAMEpers	1
+Don quichotte	NAMEpers	1
+Donnez-le	NAMEpers	1
+Donnez-les	NAMEpers	1
+Dorante	NAMEpers	1
+Dorimon	NAMEpers	1
+Doris	NAME	1
+Dornberg	NAMEpers	1
+Dracon	NAMEpers	1
+Draguignan	NAMEplace	1
+Drancy	NAMEplace	1
+Drapez	NAMEpers	1
+Drogheda	NAMEpers	1
+Drouet d' Erlon	NAMEplace	1
+Drouot	NAMEpers	1
+Drésos	NAMEpers	1
+Du Barry	NAMEpers	1
+Du Marsais	NAME	1
+Dubarry	NAMEpers	1
+Ducesme	NAMEpers	1
+Ducray-Duminil	NAMEpers	1
+Dufond	NAMEpers	1
+Dufour	NAMEpers	1
+Dufresne	NAMEpers	1
+Duleau	NAMEpers	1
+Dumolard	NAMEpers	1
+Dumouriez	NAMEpers	1
+Duperré	NAMEpers	1
+Dupont	NAMEpers	1
+Duprat	NAMEpers	1
+Duquesne	NAMEpers	1
+Durance	NAMEplace	1
+Duvivier	NAMEpers	1
+Décroche-moi-ça du changeur	NAMEpers	1
+Dédorer	NAMEpers	1
+Délibérez	NAMEpers	1
+Démocrate-bonapartiste	NAMEpers	1
+E	NAMEpers	1
+E. Teissier	NAMEpers	1
+ELOT	NAMEpers	1
+Eckeberg	NAMEpers	1
+Edmond Géraud	NAMEpers	1
+Elleviou	NAMEpers	1
+Elmire	NAMEpers	1
+Enfant-Jésus	NAMEpers	1
+Enghien	NAMEpers	1
+Ennius	NAMEpers	1
+Ens	NAMEpers	1
+Entortillez	NAMEpers	1
+Epidotas	NAMEpers	1
+Ergaphilos	NAMEpers	1
+Ergasile	NAMEpers	1
+Erudimini	NAMEpers	1
+Escaut	NAMEpers	1
+Escoublon	NAMEpers	1
+Escousse	NAMEpers	1
+Esdras justice	NAMEpers	1
+Esquilies	NAMEpers	1
+Essling	NAMEpers	1
+Estelle	NAMEpers	1
+Eucnemos	NAMEpers	1
+Eudamidas	NAMEpers	1
+Eugène 3	NAMEpers	1
+Eugène Suë	NAMEpers	1
+Euménides	NAME	1
+Euphorion	NAMEpers	1
+Euphète	NAMEpers	1
+Euripyle	NAMEpers	1
+Europe de la France	NAMEplace	1
+Euryale	NAMEpers	1
+Eutrope	NAMEpers	1
+Excelmans	NAMEpers	1
+Exceptons Paris	NAMEplace	1
+Eylau	NAMEpers	1
+F	NAMEpers	1
+Fabvier	NAMEpers	1
+Faccia	NAMEpers	1
+Fagon	NAMEpers	1
+Fampoux	NAMEplace	1
+Fantine la blond	NAMEpers	1
+Faoucq	NAMEpers	1
+Farlane	NAMEpers	1
+Fatou	NAMEpers	1
+Faublas	NAMEpers	1
+Fauchequoi	NAMEpers	1
+Fauchevelent	NAMEpers	1
+Fauntleroy	NAMEpers	1
+Fauq	NAMEpers	1
+Faust	NAMEpers	1
+Faënza	NAMEpers	1
+Ferney	NAMEpers	1
+Ferrette	NAMEplace	1
+Feydeau	NAMEpers	1
+Fidèrie	NAMEpers	1
+Fieschi	NAMEpers	1
+Fiez-vous	NAMEpers	1
+Filles-Dieu	NAMEpers	1
+Finistère	NAMEplace	1
+Fiévée	NAMEpers	1
+Flaccus	NAMEpers	1
+Flachot	NAMEpers	1
+Flaminius	NAMEpers	1
+Flavius Josèphe	NAMEpers	1
+Fleurissez	NAMEpers	1
+Fleurus	NAMEpers	1
+Fleury	NAME	1
+Fleury de Chaboulon	NAME	1
+Flore de Cauteretz	NAME	1
+Florence	NAMEpers	1
+Florian	NAME	1
+Florilegium	NAMEpers	1
+Fo-Kian	NAMEpers	1
+Fodit	NAMEpers	1
+Folie-Beaujon	NAMEpers	1
+Fortunata	NAMEpers	1
+Fortunatus	NAMEpers	1
+Fosse-aux-Loups	NAMEpers	1
+Fouillou	NAMEpers	1
+Fouquier-Tinville	NAMEpers	1
+Fourcroy	NAMEpers	1
+France d' Angleterre	NAMEplace	1
+France de Rome	NAMEplace	1
+France de l' Europe	NAMEplace	1
+Franche-Comté	NAMEplace	1
+Franconi	NAMEpers	1
+François	NAMEpers	1
+François Bourgoin	NAMEpers	1
+François de Berton de grillon	NAMEpers	1
+Françoise	NAMEpers	1
+Frasnes	NAMEpers	1
+Frayssinous	NAMEpers	1
+Freiras	NAMEpers	1
+Friant	NAMEpers	1
+Fririon	NAMEpers	1
+Frédéric	NAMEpers	1
+Frédéric 2	NAMEpers	1
+Frédérick	NAMEpers	1
+Frédérick-Lemaître	NAMEpers	1
+Fréron	NAMEpers	1
+Frévent	NAMEplace	1
+Fuegos	NAMEpers	1
+Fueros	NAMEpers	1
+Fuller	NAMEpers	1
+Fulminatrix	NAMEpers	1
+Fuscus	NAMEpers	1
+Fécamp	NAMEplace	1
+Félicité	NAMEpers	1
+Félicité Robert	NAMEpers	1
+G	NAMEpers	1
+G. vous	NAMEpers	1
+Gabriel Bucelin	NAMEpers	1
+Galatée	NAMEpers	1
+Galilée	NAMEpers	1
+Gallais	NAMEpers	1
+Gamache	NAMEpers	1
+Gand	NAMEpers	1
+Garat	NAMEplace	1
+Gautier	NAMEpers	1
+Gelenhausen	NAMEpers	1
+Geneviève	NAMEpers	1
+Gennevilliers	NAMEplace	1
+Gentilly	NAMEplace	1
+Geoffroy Saint-Hilaire	NAMEpers	1
+Germanie	NAMEpers	1
+Gex	NAMEplace	1
+Gibou	NAMEpers	1
+Gil Blas	NAMEpers	1
+Gilbert de la Porée	NAMEpers	1
+Gille	NAMEpers	1
+Gisors	NAMEplace	1
+Glandève	NAMEpers	1
+Glaris	NAMEpers	1
+Gnia	NAMEpers	1
+Gniena	NAMEpers	1
+Gondren	NAMEpers	1
+Gonesse	NAMEplace	1
+Gosselies	NAMEpers	1
+Gourgaud	NAMEpers	1
+Gouvion Saint-Cyr	NAMEplace	1
+Gozzi	NAMEpers	1
+Gracchos Tiberim	NAMEpers	1
+Gracchus	NAMEpers	1
+Gracques	NAMEpers	1
+Grammont	NAMEplace	1
+Grand-Châtelet de Paris	NAMEplace	1
+Grand-Hurleur	NAMEpers	1
+Grand-Villard	NAMEpers	1
+Grande-Rue	NAMEpers	1
+Grande-Truanderie	NAMEpers	1
+Grange-de-Doumecq	NAMEpers	1
+Gratiâ	NAMEpers	1
+Gravilliers	NAMEpers	1
+Grippesou	NAMEpers	1
+Griserait	NAMEpers	1
+Groe-nendael	NAMEpers	1
+Groenendael	NAMEpers	1
+Gros-Jean	NAMEpers	1
+Grucheray	NAMEpers	1
+Grégoire 16	NAMEpers	1
+Guillaume de Champeaux	NAMEpers	1
+Guillaume du vair	NAMEpers	1
+Guillery	NAMEpers	1
+Guillons	NAMEpers	1
+Guimard	NAMEpers	1
+Guimard-Guimardini-Guimardinette	NAMEpers	1
+Gula	NAMEpers	1
+Gulax	NAMEpers	1
+Gulnare	NAMEpers	1
+Gustave	NAMEpers	1
+Guy-Étienne-Alexandre	NAMEpers	1
+Guyot	NAMEpers	1
+Gymnastoras	NAMEpers	1
+Gédéon Le Prévost	NAMEpers	1
+Gérard de Nerval	NAMEpers	1
+Géricault	NAMEpers	1
+Günzbourg	NAMEpers	1
+H.	NAMEpers	1
+Habana	NAMEpers	1
+Habsbourg	NAMEpers	1
+Hale-Sainte	NAMEpers	1
+Halkett	NAMEpers	1
+Halle-aux-vins	NAMEpers	1
+Halma	NAMEpers	1
+Hambourg	NAMEpers	1
+Hamilton	NAMEpers	1
+Hamlet	NAMEpers	1
+Hanc	NAMEplace	1
+Harlay de Sancy	NAMEplace	1
+Harlet	NAMEpers	1
+Harper's ferry	NAMEpers	1
+Hartwell	NAMEpers	1
+Haydn	NAMEpers	1
+Hector	NAMEpers	1
+Henquinez	NAMEpers	1
+Henri 3	NAMEpers	1
+Henri 8	NAMEpers	1
+Henri Estienne	NAMEpers	1
+Henri Fonfrède	NAMEpers	1
+Henry	NAMEpers	1
+Herbaut	NAMEpers	1
+Hercules	NAMEpers	1
+Hermogène	NAMEpers	1
+Hic	NAMEpers	1
+Hiller	NAMEpers	1
+Hippocrate	NAMEpers	1
+Hobbes	NAMEpers	1
+Hoc	NAMEpers	1
+Hoffmann	NAMEpers	1
+Hohenzollern	NAMEpers	1
+Hollando-Belges	NAMEpers	1
+Holopherne	NAMEpers	1
+Homuncio	NAMEpers	1
+Homère Hogu	NAME	1
+Horas	NAMEpers	1
+Hortus	NAMEpers	1
+Hos	NAMEpers	1
+Houchard	NAMEpers	1
+Hu	NAMEpers	1
+Hudson Lowe	NAMEpers	1
+Hugomons	NAMEpers	1
+Huitièmement	NAMEpers	1
+Humann	NAMEpers	1
+Humblot-Conté	NAMEpers	1
+Hurepoix	NAMEpers	1
+Hécube	NAME	1
+Héliogabale	NAMEpers	1
+Hérode	NAMEpers	1
+Icicaille	NAMEpers	1
+Iliade	NAMEpers	1
+Iliades	NAMEpers	1
+Illustrated London new	NAMEplace	1
+Imogine	NAMEpers	1
+Imparibus	NAMEpers	1
+In	NAMEpers	1
+Incitatus	NAMEpers	1
+Inferi	NAMEpers	1
+Ingens	NAMEpers	1
+Initium	NAMEpers	1
+Inkermann	NAMEpers	1
+Io	NAME	1
+Irma Boissy	NAMEpers	1
+Iron	NAMEplace	1
+Isaac	NAMEpers	1
+Isle	NAMEpers	1
+Israël	NAMEplace	1
+Isère	NAMEplace	1
+Iturbide	NAMEpers	1
+Ivans	NAMEpers	1
+IÉNA	NAMEpers	1
+J. J. R. Caïus Gracchus	NAMEpers	1
+JAVERT	NAMEpers	1
+Jacob	NAMEpers	1
+Jacqueline	NAMEpers	1
+Jacquin	NAMEpers	1
+Jacquot	NAMEpers	1
+Janicule	NAMEpers	1
+Janot	NAMEpers	1
+Japon	NAMEplace	1
+Jausion	NAMEpers	1
+Jauziers	NAMEpers	1
+Javottes	NAMEpers	1
+Jean Bart	NAMEpers	1
+Jean Girin	NAMEpers	1
+Jean Huss	NAMEpers	1
+Jean Martin	NAMEpers	1
+Jean Soanen	NAMEpers	1
+Jean chouan	NAMEpers	1
+Jean de Leyde	NAMEpers	1
+Jean de faux	NAMEpers	1
+Jean goujon	NAMEpers	1
+Jean-Jacques Rousseau	NAMEpers	1
+Jean-Nicolas Pache	NAMEpers	1
+Jeanne Mathieu	NAMEpers	1
+Jehan	NAMEpers	1
+Jemmapes	NAMEpers	1
+John bull	NAMEpers	1
+Jomini	NAMEpers	1
+Jonas	NAMEpers	1
+Jondrette Thénardier	NAMEpers	1
+Jordaens	NAMEpers	1
+Josefa	NAMEpers	1
+Joseph	NAMEpers	1
+Joug-de-l'Aigle	NAMEpers	1
+Jourdan-Coupe-Tête	NAMEpers	1
+Jubilez	NAMEpers	1
+Judengasse	NAMEpers	1
+Julia Alpinula	NAMEpers	1
+Juliette	NAMEpers	1
+Jungfrau	NAMEpers	1
+Junons	NAMEpers	1
+Junot	NAMEpers	1
+Jupiters	NAMEpers	1
+Jura	NAMEplace	1
+Jussieu	NAMEpers	1
+Jéhu	NAMEpers	1
+Jérôme Bonaparte	NAMEpers	1
+Jésus-Christ Dieu	NAME	1
+Jésus-Dieu	NAME	1
+Jésus-Marie-Joseph	NAME	1
+Jésus-mon-Dieu-bancroche-à-bas-la-lune	NAME	1
+Kekhscheb	NAMEpers	1
+Keravenant	NAMEpers	1
+Khorassan	NAMEpers	1
+Kielmansegge	NAMEpers	1
+Kirikikiou	NAMEpers	1
+Kisss	NAMEpers	1
+LAVBESP	NAMEpers	1
+La Mothe	NAME	1
+Labarre de la Croix-de-Colbas	NAMEpers	1
+Labatut	NAMEplace	1
+Labouïsse	NAMEpers	1
+Laennec	NAMEpers	1
+Lafon	NAMEpers	1
+Lagrange	NAMEplace	1
+Lahautière	NAMEpers	1
+Laiter	NAMEpers	1
+Lallemand	NAMEpers	1
+Lambert	NAMEpers	1
+Lamoignon	NAMEpers	1
+Lamoignon-Bâville	NAMEpers	1
+Lamotte	NAMEpers	1
+Lancret	NAMEpers	1
+Langleviel La Beaumelle	NAMEpers	1
+Langres	NAMEplace	1
+Languedoc	NAMEplace	1
+Lannes	NAMEplace	1
+Lanoire	NAMEpers	1
+Laon	NAMEplace	1
+Laplace	NAMEpers	1
+Laroche-Guyon	NAMEpers	1
+Larose	NAMEpers	1
+Laubespine	NAMEpers	1
+Laurium	NAMEpers	1
+Lauzet	NAMEpers	1
+Lavater	NAMEpers	1
+Laveuve	NAMEpers	1
+Le bosser	NAMEpers	1
+Lebeuf	NAMEpers	1
+Lebras	NAMEpers	1
+Lecouffé	NAMEpers	1
+Legros	NAMEpers	1
+Leibniz	NAME	1
+Lemarchant de Gomicourt	NAMEpers	1
+Lemarin	NAMEpers	1
+Lenormand	NAMEpers	1
+Lenôtre	NAMEpers	1
+Les-pieds-en-l'air	NAMEpers	1
+Lesplanade-du-Sud	NAMEpers	1
+Letourneur	NAMEpers	1
+Lhéritier	NAMEpers	1
+Liebig	NAMEpers	1
+Ligniville	NAMEpers	1
+Ligny	NAMEpers	1
+Limosin	NAMEpers	1
+Limousin	NAMEplace	1
+Linné	NAME	1
+Lisette	NAMEpers	1
+Lodoïska	NAMEpers	1
+Lods	NAMEplace	1
+Loizerolles	NAMEpers	1
+Lola	NAMEpers	1
+Lolotte	NAMEpers	1
+Longchamp	NAMEplace	1
+Longjumeau	NAMEplace	1
+Longueville	NAMEplace	1
+Longwood	NAMEpers	1
+Lopez	NAMEpers	1
+Lorraine	NAMEpers	1
+Losthin	NAMEpers	1
+Louis 9	NAMEpers	1
+Louis XIV	NAMEpers	1
+Louis blanc	NAMEpers	1
+Louis-Philippe d' Orléans	NAMEpers	1
+Lourdes	NAMEpers	1
+Lowe	NAMEpers	1
+Luc d' Achery	NAMEpers	1
+Luc-Esprit	NAMEpers	1
+Lucifer	NAMEpers	1
+Lucrèce	NAME	1
+Ludwig Snyder	NAMEpers	1
+Lunière	NAMEpers	1
+Lunéville	NAMEplace	1
+Lutèce	NAMEpers	1
+Lux	NAMEpers	1
+Léandre	NAMEpers	1
+Léon 12	NAMEpers	1
+Lérida	NAMEpers	1
+Léthé	NAMEpers	1
+Lévi	NAMEpers	1
+Lévis	NAMEpers	1
+Lô	NAMEpers	1
+M. Guillaume Lambert	NAMEpers	1
+M. Philippe	NAMEpers	1
+M. Piet	NAMEpers	1
+MARINGO	NAMEpers	1
+Mabille	NAMEpers	1
+Mabillon	NAMEpers	1
+Mac-Callummore	NAMEpers	1
+Mac-Farlane	NAMEpers	1
+Macbeth	NAMEpers	1
+Macchi	NAMEpers	1
+Magimel	NAMEpers	1
+Magnates	NAMEpers	1
+Magny	NAMEplace	1
+Mahom	NAMEpers	1
+Maison-Brûlée	NAMEpers	1
+Maistre	NAMEpers	1
+Malbrouck	NAMEpers	1
+Malebranche	NAME	1
+Malek-Adel	NAMEpers	1
+Malfilâtre	NAMEpers	1
+Malher	NAMEpers	1
+Mallet	NAMEpers	1
+Malplaquet	NAMEpers	1
+Mamselle	NAMEpers	1
+Mangedentelle	NAMEpers	1
+Manin	NAMEplace	1
+Manon Lescaut	NAMEpers	1
+Manosque	NAMEplace	1
+Manou	NAMEplace	1
+Mans	NAMEpers	1
+Mansart	NAMEpers	1
+Manuel du baccalauréat	NAMEpers	1
+Manutianis	NAMEpers	1
+Marcel	NAMEpers	1
+Marchiennes	NAMEplace	1
+Marché-aux-Fleurs	NAMEpers	1
+Marché-aux-Poirées	NAMEpers	1
+Marcien	NAMEpers	1
+Marcos Obregon de la Ronda	NAMEpers	1
+Mardisoir	NAMEpers	1
+Marguerite de Blemeur	NAMEpers	1
+Marguerite de Jean de La Haye	NAMEpers	1
+Margueritte	NAMEpers	1
+Marie d' Orléans	NAMEpers	1
+Marie de Médicis	NAMEpers	1
+Marie-Louise	NAMEpers	1
+Mariette	NAMEpers	1
+Marignan	NAMEpers	1
+Marion	NAMEpers	1
+Marius de Cosette	NAMEpers	1
+Marlborough	NAMEpers	1
+Marly	NAMEplace	1
+Marquesa de Almagro	NAMEpers	1
+Marsan	NAMEplace	1
+Marsh	NAMEpers	1
+Martin	NAMEpers	1
+Martin de tour	NAMEpers	1
+Marton	NAMEpers	1
+Masaniello	NAMEpers	1
+Massieu	NAMEplace	1
+Matanturlurette	NAMEpers	1
+Mathan	NAMEpers	1
+Mathieu	NAMEpers	1
+Mathieu Laensberg	NAMEpers	1
+Mathieu Nicaise	NAMEpers	1
+Mathurin Bruneau	NAMEpers	1
+Mathurin Régnier	NAMEpers	1
+Mathurins-Saint-Jacques	NAMEpers	1
+Maubert Isabeau	NAMEpers	1
+Maugout	NAMEpers	1
+Maupetit	NAMEpers	1
+Maurolicus	NAMEpers	1
+Mayeux	NAMEpers	1
+Mazarin	NAMEpers	1
+Melpomène	NAME	1
+Melun	NAMEplace	1
+Merbe-Braine	NAMEpers	1
+Mercure	NAME	1
+Merlin	NAMEpers	1
+Messier	NAMEpers	1
+Meulan	NAMEplace	1
+Meulen	NAMEpers	1
+Mezzocane	NAMEpers	1
+Mi-parti	NAMEpers	1
+Michel-Anges	NAMEpers	1
+Midi	NAMEplace	1
+Miguel	NAMEpers	1
+Mila cogner	NAMEpers	1
+Milan	NAMEplace	1
+Millevoye	NAMEpers	1
+Mimi	NAMEpers	1
+Minerve Pallas	NAME	1
+Mirepoix	NAMEplace	1
+Mirlababi	NAMEpers	1
+Missolonghi	NAMEpers	1
+Missouri	NAMEpers	1
+Mme Barthélemy-Hadot	NAMEpers	1
+Mme Henry	NAMEpers	1
+Mokannâ	NAMEpers	1
+Momacques	NAMEpers	1
+Mommol	NAMEpers	1
+Monnot	NAMEpers	1
+Monsieur-dont-je-ne-sais-pas-le-nom	NAMEpers	1
+Mont-Palissel	NAMEpers	1
+Mont-Parnasse	NAMEpers	1
+Montbrison	NAMEplace	1
+Montchenu	NAMEplace	1
+Montdidier	NAMEplace	1
+Monte	NAMEpers	1
+Monte-à-Regret	NAMEpers	1
+Montesquieu	NAME	1
+Monteynard	NAMEplace	1
+Montgomery	NAMEpers	1
+Montmorency	NAMEplace	1
+Montpellier	NAMEplace	1
+Montpercy	NAMEpers	1
+Montrevel	NAMEplace	1
+Montrouge	NAMEplace	1
+Montsouris	NAMEpers	1
+Montvernet	NAMEpers	1
+Morand	NAME	1
+Moret	NAMEpers	1
+Morey	NAMEplace	1
+Morfilez	NAMEpers	1
+Morillo	NAMEpers	1
+Morin	NAMEpers	1
+Mothe-Houdancourt	NAMEpers	1
+Munatius Demens	NAMEpers	1
+Munophis d' Elephanta	NAMEpers	1
+Mutor de la Rubaudière	NAMEpers	1
+Myrrhinus	NAMEpers	1
+Mævius	NAMEpers	1
+Mécistée	NAMEpers	1
+Méganthios	NAMEpers	1
+Mégaryon	NAMEpers	1
+Ménilmontant Choisy-le-Roi	NAMEplace	1
+Ménétriers	NAMEpers	1
+Mérionée	NAMEpers	1
+Münster	NAMEpers	1
+N. c'est	NAMEpers	1
+NAPOLEON être faire tout en osier	NAMEpers	1
+Nahenry	NAMEpers	1
+Nain-Londrin	NAMEpers	1
+Namur	NAMEpers	1
+Napoléon Bonaparte	NAME	1
+Napoléon le grand	NAME	1
+Narcisse	NAME	1
+Nargaud	NAMEpers	1
+Narsès	NAMEpers	1
+Natoire	NAMEpers	1
+Necker	NAMEpers	1
+Nemo	NAMEpers	1
+Neptune	NAME	1
+Nestor	NAME	1
+Neuilly-sur-Marne	NAMEplace	1
+Neurs	NAMEpers	1
+Neustadt	NAMEpers	1
+Neuvièmement	NAMEpers	1
+New York	NAMEpers	1
+Niagara	NAMEpers	1
+Nini	NAMEpers	1
+Nisi Dominus	NAMEpers	1
+Nisibi	NAMEpers	1
+Nisus	NAME	1
+Noisy-le-Sec	NAMEplace	1
+Nomentanus	NAMEpers	1
+Nord	NAMEplace	1
+Normandie	NAMEplace	1
+Notre-Dame-de-Nazareth	NAMEpers	1
+Notre-Seigneur	NAMEpers	1
+Novi	NAMEpers	1
+Noé	NAME	1
+Nunc	NAMEpers	1
+Nérons	NAMEpers	1
+Nîmois	NAMEpers	1
+O'Mahony	NAMEpers	1
+Octave	NAMEpers	1
+Odry	NAMEpers	1
+Ogibbewas	NAMEpers	1
+Oise	NAMEplace	1
+Ollioules	NAMEplace	1
+Olympie	NAMEpers	1
+Onkelos	NAMEpers	1
+Onté	NAMEpers	1
+Opheltios	NAMEpers	1
+Ophélia	NAMEpers	1
+Oreste	NAME	1
+Orfila	NAMEpers	1
+Origène	NAMEpers	1
+Orsay	NAMEplace	1
+Ossa	NAMEpers	1
+Ossian	NAMEpers	1
+Ostende	NAMEpers	1
+Othello	NAMEpers	1
+Othon	NAMEpers	1
+Otos de Cyllène	NAMEpers	1
+Oumoumié de damas	NAMEpers	1
+Ourcine	NAMEpers	1
+Ourcq	NAMEpers	1
+Ourcq de la Marne	NAMEplace	1
+Ourika	NAMEpers	1
+Owen	NAMEpers	1
+P'pa	NAMEpers	1
+PANCHAUD	NAMEpers	1
+Pache	NAMEpers	1
+Pacy	NAMEpers	1
+Pajol	NAMEpers	1
+Palaiseau	NAMEplace	1
+Palatinat	NAMEpers	1
+Palerme	NAMEpers	1
+Palestine	NAMEplace	1
+Palisse	NAMEpers	1
+Palmieri	NAMEpers	1
+Pamy	NAMEpers	1
+Panama	NAMEplace	1
+Pantolabus	NAMEpers	1
+Papavoine	NAMEpers	1
+Pape-lotte	NAMEpers	1
+Paphos	NAMEpers	1
+Pardalisca	NAMEpers	1
+Pardié	NAMEpers	1
+Parthénon	NAMEpers	1
+Pas-du-tout	NAMEpers	1
+Passe-Douteuse	NAMEpers	1
+Patenôtre	NAMEpers	1
+Pathmos	NAMEpers	1
+Patrem	NAMEpers	1
+Patria	NAMEpers	1
+Patrocle	NAME	1
+Pau	NAMEplace	1
+Paul-Aimé Garnier	NAMEpers	1
+Paul-Louis Courier	NAMEpers	1
+Paulin Musebois	NAMEpers	1
+Paër	NAMEpers	1
+Pechméja	NAMEpers	1
+Pellegrini	NAMEpers	1
+Pepita	NAMEpers	1
+Perponcher	NAMEpers	1
+Perrette	NAMEpers	1
+Perronet	NAMEpers	1
+Pesth	NAMEpers	1
+Peteghem	NAMEpers	1
+Petit-Chapeau	NAMEpers	1
+Petite-Pologne	NAMEpers	1
+Petites-Maisons	NAMEpers	1
+Petits-Pères	NAMEpers	1
+Petrus	NAMEpers	1
+Pharos	NAMEpers	1
+Philetas	NAMEpers	1
+Philibert	NAMEpers	1
+Philibert Delorme	NAMEpers	1
+Philinte	NAMEpers	1
+Philippe 5	NAMEpers	1
+Philippe de Vendôme	NAMEpers	1
+Philippes	NAMEpers	1
+Philis	NAMEpers	1
+Philémon	NAME	1
+Phoedromus	NAMEpers	1
+Phylès	NAMEpers	1
+Phébus	NAME	1
+Phébé	NAME	1
+Phélippeaux	NAMEpers	1
+Picquigny	NAMEplace	1
+Pidyte de Percose	NAMEpers	1
+Pie 7	NAMEpers	1
+Pie VII	NAMEpers	1
+Pierre Chesnelong	NAMEpers	1
+Pierre de Besse	NAMEpers	1
+Pierre de Bruys	NAMEpers	1
+Pierre de Bérulle	NAMEpers	1
+Pierre de Médine	NAMEpers	1
+Pierre notaire	NAMEpers	1
+Pierre-Lombard	NAMEpers	1
+Pierre-Plate de Châtillon	NAMEpers	1
+Pigritia	NAMEpers	1
+Pilorge	NAMEpers	1
+Pirch	NAMEpers	1
+Pirch Ier	NAMEpers	1
+Piron	NAMEpers	1
+Piré	NAMEpers	1
+Pisistrate	NAMEpers	1
+Pissevache	NAMEpers	1
+Pissot	NAMEpers	1
+Pitt	NAMEpers	1
+Planche-Mibray	NAMEpers	1
+Planesium	NAMEpers	1
+Plantavit de la fosse	NAMEpers	1
+Pleignier	NAMEpers	1
+Pline	NAME	1
+Plâtrière	NAMEpers	1
+Poinçot	NAMEpers	1
+Poissy	NAMEplace	1
+Pollux	NAME	1
+Polybe	NAME	1
+Polydamas	NAMEpers	1
+Polynice	NAME	1
+Polyphème	NAME	1
+Polypætès	NAMEpers	1
+Pommerci	NAMEpers	1
+Pomone	NAME	1
+Pompeius	NAMEpers	1
+Pompierry	NAMEpers	1
+Ponce-Pilate	NAMEpers	1
+Pont-au-Change	NAMEpers	1
+Pont-à-Mousson	NAMEplace	1
+Pontmarie	NAMEpers	1
+Pope	NAME	1
+Poquelin	NAMEpers	1
+Porcherons	NAMEpers	1
+Poret de Morvan	NAMEpers	1
+Port-de-Guy	NAMEpers	1
+Portugal	NAMEplace	1
+Potsdam	NAMEpers	1
+Poussagrive	NAMEpers	1
+Pousselevent	NAMEpers	1
+Pradeaux	NAMEpers	1
+Prado	NAMEpers	1
+Prenard	NAMEpers	1
+Pretot	NAMEpers	1
+Pringle	NAMEpers	1
+Probalinthe	NAMEpers	1
+Prochez	NAMEpers	1
+Procope	NAMEpers	1
+Profundis	NAMEpers	1
+Proportionnez	NAMEpers	1
+Prosper	NAMEpers	1
+Protée	NAME	1
+Provence	NAMEplace	1
+Prusias	NAMEpers	1
+Prêt'	NAMEpers	1
+Pssst	NAMEpers	1
+Ptolémaïs	NAMEpers	1
+Pttt	NAMEpers	1
+Puerte	NAMEpers	1
+Puy-Moisson	NAMEpers	1
+Puységur	NAMEplace	1
+Pydna	NAMEpers	1
+Pygmalion	NAMEpers	1
+Pyrrhon	NAMEpers	1
+Pâris	NAME	1
+Pédasus	NAMEpers	1
+Pélicier	NAMEpers	1
+Pélion	NAMEpers	1
+Périclès	NAMEpers	1
+Périgueux	NAMEplace	1
+Pétersbourg	NAMEpers	1
+Pétrarque	NAME	1
+Q 100 500 E	NAMEpers	1
+Q. Bannerel	NAMEpers	1
+Quadrains	NAMEpers	1
+Quatre-Nations	NAMEpers	1
+Quatre-quatre	NAMEpers	1
+Quia	NAMEpers	1
+Quid	NAMEpers	1
+Quin	NAMEpers	1
+Quincampoix	NAMEplace	1
+Quine	NAME	1
+Quirites	NAMEpers	1
+Quiroga	NAMEpers	1
+R.	NAMEpers	1
+R. Grantaire	NAMEpers	1
+Ramillies	NAMEplace	1
+Ramus	NAMEpers	1
+Raoul	NAMEpers	1
+Raoul de faux	NAMEpers	1
+Ratisbonne	NAMEpers	1
+Raux	NAMEpers	1
+Raynal	NAMEpers	1
+Redivivus	NAMEpers	1
+Reichenau	NAMEpers	1
+Rembrandt	NAMEpers	1
+Renard	NAMEpers	1
+Rencognons	NAMEpers	1
+Renfoncez	NAMEpers	1
+Requiescat	NAMEpers	1
+Restif de la breton	NAMEpers	1
+Rhodes	NAMEplace	1
+Rhône	NAMEplace	1
+Richard	NAMEpers	1
+Ridet Caesar	NAMEpers	1
+Riego	NAMEpers	1
+Rivoli	NAMEpers	1
+Roastbeef	NAMEpers	1
+Robert Estienne	NAMEpers	1
+Roche-Abeille	NAMEpers	1
+Roche-Guyon	NAMEpers	1
+Rochefort	NAME	1
+Roger Bacon	NAMEpers	1
+Rohan	NAMEpers	1
+Rolleboise	NAMEplace	1
+Rollet	NAMEpers	1
+Romain	NAMEpers	1
+Romanov	NAMEpers	1
+Rome-Babylone	NAMEplace	1
+Rome-Ninive	NAMEplace	1
+Rome-Sodome	NAMEplace	1
+Romorantin	NAMEpers	1
+Romulus	NAME	1
+Roquelaure	NAMEplace	1
+Rosa	NAMEpers	1
+Rostopchine	NAMEpers	1
+Roumanie	NAMEplace	1
+Roze	NAMEpers	1
+Rubaudière	NAMEpers	1
+Ruisdael	NAME	1
+Ruyter	NAMEpers	1
+Ryssel	NAMEpers	1
+Récamier	NAMEpers	1
+S	NAMEpers	1
+S.	NAMEpers	1
+S. madame	NAMEpers	1
+S. ne	NAMEpers	1
+Sabinus	NAMEpers	1
+Sabran	NAMEplace	1
+Saint-Augustin	NAMEpers	1
+Saint-Avelle	NAMEpers	1
+Saint-Basile	NAMEpers	1
+Saint-Benoît-sur-Loire	NAMEplace	1
+Saint-Claude	NAMEplace	1
+Saint-Denis du Saint-Sacrement	NAMEplace	1
+Saint-Etienne du mont	NAMEplace	1
+Saint-Etienne-du-Mont	NAMEpers	1
+Saint-Florentin	NAMEplace	1
+Saint-Georges de Bocherville	NAMEplace	1
+Saint-Gilles	NAMEplace	1
+Saint-Jean de Beauvais	NAMEplace	1
+Saint-Joseph	NAMEpers	1
+Saint-Loup	NAMEplace	1
+Saint-Mandé	NAMEplace	1
+Saint-Marceau	NAMEplace	1
+Saint-Maur	NAMEplace	1
+Saint-Mihiel	NAMEplace	1
+Saint-Nicolas	NAMEplace	1
+Saint-Ouen	NAMEplace	1
+Saint-Simoniens	NAMEpers	1
+Saint-Sébastien	NAMEplace	1
+Sainte-Adélaïde	NAMEpers	1
+Sainte-Alliance	NAMEpers	1
+Sainte-Ange	NAMEpers	1
+Sainte-Anne	NAMEplace	1
+Sainte-Aulaire	NAMEpers	1
+Sainte-Chantal	NAMEpers	1
+Sainte-Claire	NAMEpers	1
+Sainte-Céligne	NAMEpers	1
+Sainte-Euphrasie	NAMEpers	1
+Sainte-Foix	NAMEpers	1
+Sainte-Gertrude	NAMEpers	1
+Sainte-Honorine	NAMEpers	1
+Sainte-Justine de Padoue	NAMEpers	1
+Sainte-Marie-l'Égyptienne	NAMEpers	1
+Sainte-Pélagie	NAMEpers	1
+Sainte-Scolastique	NAMEpers	1
+Sakoski	NAMEpers	1
+Salle-au-Comte	NAMEpers	1
+Sallé	NAMEpers	1
+Salus	NAMEpers	1
+Salvator Rosa	NAMEpers	1
+Sambre-et-Meuse	NAMEpers	1
+Samos	NAMEpers	1
+Samson	NAMEpers	1
+Sand	NAME	1
+Sanson	NAMEpers	1
+Saqui	NAMEpers	1
+Sardaigne	NAMEplace	1
+Sardanapale	NAMEpers	1
+Satnoïs	NAMEpers	1
+Saturne	NAME	1
+Saulx-Tavannes	NAMEplace	1
+Sauval	NAMEpers	1
+Savoie	NAMEplace	1
+Saxe	NAMEpers	1
+Scabra	NAMEpers	1
+Scarron	NAMEpers	1
+Scaufflaër	NAMEpers	1
+Schiller	NAME	1
+Schoenbrunn	NAMEpers	1
+Scipion	NAMEpers	1
+Scythie	NAMEpers	1
+Selves	NAMEpers	1
+Septièmement	NAMEpers	1
+Shakespeare Caliban	NAME	1
+Siborne	NAMEpers	1
+Sibérie	NAMEpers	1
+Sicambres	NAMEpers	1
+Sicard	NAMEpers	1
+Silanion	NAMEpers	1
+Sillette	NAMEpers	1
+Simon-le-Franc	NAMEpers	1
+Simplice de Sicile	NAMEpers	1
+Sinaï	NAMEpers	1
+Sinite	NAMEpers	1
+Sirius	NAMEpers	1
+Sirven	NAMEpers	1
+Sisteron	NAMEplace	1
+Six-Fours	NAMEpers	1
+Six-cinq	NAMEpers	1
+Sixtine	NAMEpers	1
+Smohain	NAMEpers	1
+Socin	NAMEpers	1
+Soize	NAMEplace	1
+Solem	NAMEpers	1
+Soliman	NAMEpers	1
+Soubise	NAMEplace	1
+Soulange Bodin	NAMEpers	1
+Soulignons	NAMEpers	1
+Sourdis	NAMEpers	1
+Souver	NAMEpers	1
+Soy de Badajoz	NAMEpers	1
+Spinoza	NAME	1
+Staphyla	NAMEpers	1
+Staub	NAMEpers	1
+Stella et	NAMEpers	1
+Stephanus	NAMEpers	1
+Stockholm	NAMEpers	1
+Styx	NAMEpers	1
+Subervic	NAMEpers	1
+Subiaco	NAMEpers	1
+Suffren	NAMEpers	1
+Suresne	NAMEpers	1
+Suresne de Paris	NAMEplace	1
+Surlababi	NAMEpers	1
+Surrey	NAMEpers	1
+Survincent	NAMEpers	1
+Suzette	NAMEpers	1
+Suède	NAMEplace	1
+Swantibore	NAMEpers	1
+Swedenborg	NAME	1
+Sylvae	NAMEpers	1
+Sylvanie	NAMEpers	1
+Syracuse	NAMEpers	1
+Syène	NAMEpers	1
+Ségeste	NAMEpers	1
+Sérent	NAMEplace	1
+T	NAMEpers	1
+T. F. p.	NAMEpers	1
+Tabaraud	NAMEpers	1
+Talbot	NAMEpers	1
+Tanflûte	NAMEpers	1
+Terray	NAMEpers	1
+Terre-Sainte	NAMEpers	1
+Tertullien	NAMEpers	1
+Teucer	NAME	1
+Teuthranis	NAMEpers	1
+Thalès	NAMEpers	1
+Therapontigonus Miles	NAMEpers	1
+Thespis	NAMEpers	1
+Thesprion	NAMEpers	1
+Thessalie	NAMEpers	1
+Thibord du Chalard	NAMEpers	1
+Thisbé	NAME	1
+Thomas	NAMEpers	1
+Thomas de faux	NAMEpers	1
+Thouars	NAMEplace	1
+Thrasius	NAMEpers	1
+Thrasybule	NAMEpers	1
+Thuin	NAMEpers	1
+Thygélion de Chéronée	NAMEpers	1
+Thémis	NAME	1
+Thénardier Jondrette	NAMEpers	1
+Théocrite	NAMEpers	1
+Théodore	NAMEpers	1
+Théophile	NAMEpers	1
+Théramène	NAMEpers	1
+Thérèse Aubert	NAMEpers	1
+Thésée	NAME	1
+Tibet	NAMEpers	1
+Tibulle	NAME	1
+Tibères	NAMEpers	1
+Tiercelin	NAMEpers	1
+Tilly	NAMEpers	1
+Tilsitt	NAMEpers	1
+Timaloumisaine	NAMEpers	1
+Timoléon	NAMEpers	1
+Tirecuir de Corcelles	NAMEplace	1
+Tiridate	NAMEpers	1
+Titus	NAMEpers	1
+Tityre	NAMEpers	1
+Toda	NAMEpers	1
+Tohubohu	NAMEpers	1
+Tolbiac de Clovis	NAMEpers	1
+Tolosa	NAMEpers	1
+Tombe-Issoire	NAMEpers	1
+Tongres	NAMEpers	1
+Toryne	NAMEpers	1
+Tottlingen	NAMEpers	1
+Tou	NAMEpers	1
+Tournefort	NAMEplace	1
+Tout-le-Monde	NAMEpers	1
+Trenton	NAMEpers	1
+Tressez	NAMEpers	1
+Triel	NAMEpers	1
+Trimalcion	NAMEpers	1
+Tristan	NAMEpers	1
+Trithème	NAMEpers	1
+Trocadéro	NAMEpers	1
+Trogoff	NAMEpers	1
+Trois-Pavillons	NAMEpers	1
+Trophonius	NAMEpers	1
+Trouve-la	NAMEpers	1
+Très-Hauts	NAMEpers	1
+Tso-maraude	NAMEpers	1
+Turcaret	NAMEpers	1
+Turin	NAMEpers	1
+Turkheim	NAMEpers	1
+Turris	NAMEpers	1
+Tuy	NAMEpers	1
+Tymbrœus Apollo	NAMEpers	1
+Tyr	NAMEpers	1
+Técelin	NAMEpers	1
+Téglath-Phalasar	NAMEpers	1
+Télémaque	NAME	1
+Térence	NAMEpers	1
+Tête-Noire	NAMEpers	1
+U	NAMEpers	1
+U. F.	NAMEpers	1
+U.F. c'est	NAMEpers	1
+Ubaye	NAMEpers	1
+Ubayette	NAMEpers	1
+Ugolin	NAMEpers	1
+Ulysse	NAME	1
+Urbi	NAMEpers	1
+Urbis	NAMEpers	1
+Urfé	NAMEpers	1
+Uri	NAMEpers	1
+V'là	NAMEpers	1
+Vacarmini	NAMEpers	1
+Vade	NAMEpers	1
+Vadeboncœur	NAMEpers	1
+Vadé	NAMEpers	1
+Vah	NAMEpers	1
+Valmy	NAMEplace	1
+Valombrosa	NAMEpers	1
+Valory	NAMEpers	1
+Valsin	NAMEpers	1
+Van	NAMEpers	1
+Van Der Meulen	NAMEpers	1
+Van Kluze	NAMEpers	1
+Van Kylsom	NAMEpers	1
+Van Merlen	NAMEpers	1
+Vancouver	NAMEplace	1
+Vargoulême	NAMEpers	1
+Varus Vibiscus	NAMEpers	1
+Vatican	NAMEpers	1
+Vaubernier	NAMEpers	1
+Vaud	NAMEpers	1
+Vauvert	NAMEplace	1
+Vejanus	NAMEpers	1
+Vence	NAMEplace	1
+Vendôme	NAMEplace	1
+Venetiis	NAMEpers	1
+Venons-nous	NAMEpers	1
+Ventregoulette	NAMEpers	1
+Vergniaud	NAMEpers	1
+Vermis	NAMEpers	1
+Verrès	NAMEpers	1
+Vert-Coucou	NAMEpers	1
+Veuvain	NAMEpers	1
+Victoire	NAMEpers	1
+Vieilles-Tuileries	NAMEpers	1
+Vignemale	NAMEpers	1
+Villette	NAMEplace	1
+Villiers-Hotman	NAMEplace	1
+Vincent	NAMEpers	1
+Vir	NAMEpers	1
+Visigoths	NAMEpers	1
+Vitaï	NAMEpers	1
+Vitellius	NAMEpers	1
+Vitoria	NAMEpers	1
+Vlajean	NAMEpers	1
+Voe	NAMEpers	1
+Volaverunt	NAMEpers	1
+Volsques	NAMEpers	1
+Voltaire-Touquet	NAME	1
+Vousiergue	NAMEpers	1
+Vvixi	NAMEpers	1
+Vâsaphantâ	NAMEpers	1
+Véda	NAMEpers	1
+Vénus de Médicis	NAME	1
+WAGRAMME	NAMEpers	1
+Wachau	NAMEpers	1
+Weber	NAME	1
+Wellington l' Angleterre	NAMEplace	1
+Weltingen	NAMEpers	1
+Werther	NAMEpers	1
+Wilda	NAMEpers	1
+Wincke	NAMEpers	1
+Windsor-soaps	NAMEpers	1
+Workman	NAMEpers	1
+Worms	NAMEpers	1
+XVIIIème	NAMEpers	1
+Y. lequel	NAMEpers	1
+Yonne	NAMEplace	1
+Yoways	NAMEpers	1
+Yungfrau	NAMEpers	1
+Yvon	NAMEpers	1
+Z	NAMEpers	1
+Z. Charles Nodier	NAMEpers	1
+Zaatcha	NAMEpers	1
+Zi	NAMEpers	1
+Zuyderzée	NAMEpers	1
+Zéphir	NAMEpers	1
+Zéïla	NAMEpers	1
+abbé Grégoire	NAMEpers	1
+abbé Louis	NAMEpers	1
+annonciation	NAMEpers	1
+assomption	NAMEpers	1
+baron	NAMEpers	1
+baron Marius	NAMEpers	1
+bigot de Préameneu	NAMEpers	1
+bombarder	NAMEpers	1
+cap brun	NAMEplace	1
+compassion	NAMEpers	1
+comté de Nice	NAMEplace	1
+conception	NAMEpers	1
+coton	NAMEpers	1
+couvent de Paris	NAMEplace	1
+couvent de l' adoration perpétuel	NAMEplace	1
+couvent du Petit-Picpus-Saint-Antoine	NAMEplace	1
+couvent du temple	NAMEplace	1
+couvent du trésor	NAMEplace	1
+d' Agde	NAMEpers	1
+d' Alluye	NAMEpers	1
+d' Amendre	NAMEpers	1
+d' Anville	NAMEpers	1
+d' Aquila	NAMEpers	1
+d' Argens	NAMEpers	1
+d' Auverney	NAMEpers	1
+d' Avaray	NAMEpers	1
+d' Enghien	NAMEpers	1
+d' Erlon	NAMEpers	1
+d' Espagne	NAMEpers	1
+d' Herbouville	NAMEpers	1
+d' Orléans	NAMEpers	1
+d' Otrante	NAMEpers	1
+d' Yvetot	NAMEpers	1
+d' asseoir	NAMEpers	1
+d' Éponine	NAMEpers	1
+de Babet	NAMEpers	1
+de Beauffremont	NAMEpers	1
+de Beaufort d' Hautpoul	NAMEpers	1
+de Bernis	NAMEpers	1
+de Birague	NAMEpers	1
+de Blücher	NAMEpers	1
+de Boischevron	NAMEpers	1
+de Bonald	NAMEpers	1
+de Bordeaux	NAMEpers	1
+de Boufflers	NAMEpers	1
+de Bourgogne	NAMEpers	1
+de Brandebourg	NAMEpers	1
+de Broè	NAMEpers	1
+de Bérulle	NAMEpers	1
+de Béthune	NAMEpers	1
+de Canaples	NAMEpers	1
+de Carignan	NAMEpers	1
+de Caumartin	NAMEpers	1
+de Chaliot	NAMEpers	1
+de Champtercier	NAMEpers	1
+de Chartres	NAMEpers	1
+de Chateaubriand	NAMEpers	1
+de Chauvelin	NAMEpers	1
+de Châteauvieux	NAMEpers	1
+de Cifuentes	NAMEpers	1
+de Clairvaux	NAMEpers	1
+de Cogolludo	NAMEpers	1
+de Constant de Rebecque	NAMEpers	1
+de Conzié	NAMEpers	1
+de Coriolis d' Espinouse	NAMEpers	1
+de Créqui	NAMEpers	1
+de Créquy	NAMEpers	1
+de Cîteaux	NAMEpers	1
+de Dalmatie	NAMEpers	1
+de Duras	NAMEpers	1
+de Fervacques	NAMEpers	1
+de Fitz-James	NAMEpers	1
+de Féletz	NAMEpers	1
+de Gand	NAMEpers	1
+de Gramont	NAMEpers	1
+de Guéménée	NAMEpers	1
+de Hesse	NAMEpers	1
+de Kock	NAMEpers	1
+de La Roche-Aymon	NAMEpers	1
+de La trappe	NAMEpers	1
+de Lamballe	NAMEpers	1
+de Lamothe-Valois	NAMEpers	1
+de Latil	NAMEpers	1
+de Laudinière	NAMEpers	1
+de Lobau	NAMEpers	1
+de Lucenet	NAMEpers	1
+de Lô	NAMEpers	1
+de Metz	NAMEpers	1
+de Miromesnil	NAMEpers	1
+de Modène	NAMEpers	1
+de Molesme	NAMEpers	1
+de Monaco	NAMEpers	1
+de Montbazon	NAMEpers	1
+de Montcalm	NAMEpers	1
+de Montmorency	NAMEpers	1
+de Napoléon	NAMEpers	1
+de Navarre	NAMEpers	1
+de Nicolas Poutrain	NAMEpers	1
+de Nivernais	NAMEpers	1
+de Paul	NAMEpers	1
+de Polydamas	NAMEpers	1
+de Port-de-Guy	NAMEpers	1
+de Périgord	NAMEpers	1
+de Quélen	NAMEpers	1
+de Reichstadt	NAMEpers	1
+de Richmond	NAMEpers	1
+de Robespierre	NAMEpers	1
+de Ruppin	NAMEpers	1
+de Saint-Honoré de Lérins	NAMEpers	1
+de Saint-Simon	NAMEpers	1
+de Sainte-Marthe	NAMEpers	1
+de Salaberry	NAMEpers	1
+de Salone	NAMEpers	1
+de Saxe-Weimar	NAMEpers	1
+de Scudéry	NAMEpers	1
+de Sicile	NAMEpers	1
+de Siguenza	NAMEpers	1
+de Simore	NAMEpers	1
+de Somerel	NAMEpers	1
+de Soubise	NAMEpers	1
+de Staël	NAMEpers	1
+de Suzon	NAMEpers	1
+de Talaru	NAMEpers	1
+de Trinquelague	NAMEpers	1
+de Veuvain	NAMEpers	1
+de Vibraye	NAMEpers	1
+de Vivonne	NAMEpers	1
+de Voltaire	NAMEpers	1
+de bouc	NAMEpers	1
+de castille	NAMEpers	1
+de chabot	NAMEpers	1
+de l' Europe	NAMEpers	1
+de l' État	NAMEpers	1
+de la Lycie	NAMEpers	1
+de la Miltière	NAMEpers	1
+de la banque	NAMEpers	1
+de la bastille	NAMEpers	1
+de la luzerne	NAMEpers	1
+de la pompadour	NAMEpers	1
+de pantin	NAMEpers	1
+de pin	NAMEpers	1
+de thune	NAMEpers	1
+de tonnerre	NAMEpers	1
+dix	NAMEpers	1
+du Brujon	NAMEpers	1
+du No	NAMEpers	1
+du Titien	NAMEpers	1
+faubourg Montmartre	NAMEplace	1
+faubourg Saint-Honoré	NAMEplace	1
+faubourg Saint-Martin	NAMEplace	1
+frère Jonathan	NAMEpers	1
+frère Jérôme	NAMEpers	1
+gaucher	NAMEpers	1
+gigogne	NAMEpers	1
+général Bertrand	NAMEpers	1
+hôtel Meurice	NAMEplace	1
+hôtel de Clermont-Tonnerre	NAMEplace	1
+hôtel de Cluny	NAMEplace	1
+hôtel de Rambouillet	NAMEplace	1
+hôtel de la poste	NAMEplace	1
+je	NAMEpers	1
+la vierge	NAMEpers	1
+le curé	NAMEpers	1
+le jeune	NAMEpers	1
+lord Germain	NAMEpers	1
+lord Seymour	NAMEpers	1
+mademoiselle Gauvain	NAMEpers	1
+mademoiselle Roze	NAMEpers	1
+miss Dahlia	NAMEpers	1
+miséricorde	NAMEpers	1
+mont Jaxa	NAMEplace	1
+monter	NAMEpers	1
+mucher	NAMEpers	1
+mère Jacob	NAMEpers	1
+mère Jeanne	NAMEpers	1
+nativité	NAMEpers	1
+passion	NAMEpers	1
+picton	NAMEpers	1
+providence	NAMEpers	1
+raglan	NAMEpers	1
+reine Isabelle	NAMEpers	1
+roi Louis-Philippe	NAMEpers	1
+rue Amelot	NAMEplace	1
+rue Aumarais	NAMEplace	1
+rue Barre-du-Bec	NAMEplace	1
+rue Beautreillis	NAMEplace	1
+rue Bertin-Poirée	NAMEplace	1
+rue Boucherat	NAMEplace	1
+rue Chanvrerie	NAMEplace	1
+rue Charlot	NAMEpers	1
+rue Cosette	NAMEpers	1
+rue Folie-Méricourt	NAMEplace	1
+rue Froidmanteau	NAMEplace	1
+rue Férou	NAMEplace	1
+rue Geoffroy-Langevin	NAMEpers	1
+rue Gracieuse	NAMEpers	1
+rue Grange-Batelière	NAMEplace	1
+rue Grenier-Saint-Lazare	NAMEplace	1
+rue Guibourg	NAMEplace	1
+rue Guérin-Boisseau	NAMEplace	1
+rue Jacob	NAMEpers	1
+rue Laffitte	NAMEplace	1
+rue Lesdiguières	NAMEplace	1
+rue Mandar	NAMEplace	1
+rue Maubuée	NAMEplace	1
+rue Mazarine	NAMEplace	1
+rue Monsieur-le-Prince	NAMEplace	1
+rue Montre-de-Champigny	NAMEplace	1
+rue Neuve-des-Petits-Pères	NAMEplace	1
+rue Notre-Dame-de-Nazareth	NAMEplace	1
+rue Notre-Dame-des-Victoires	NAMEplace	1
+rue P	NAMEplace	1
+rue Pierre-Lombard	NAMEpers	1
+rue Pierre-à-Poisson	NAMEpers	1
+rue Planche-Mibray	NAMEplace	1
+rue Plâtrière	NAMEplace	1
+rue Poichevert	NAMEplace	1
+rue Pont-aux-Biches	NAMEplace	1
+rue Quincampoix	NAMEplace	1
+rue Richelieu	NAMEplace	1
+rue Saint-Claude	NAMEplace	1
+rue Saint-Dominique-d'Enfer	NAMEplace	1
+rue Saint-Florentin	NAMEplace	1
+rue Saint-Georges	NAMEplace	1
+rue Saint-Jean-de-Beauvais	NAMEplace	1
+rue Saint-Pierre	NAMEplace	1
+rue Saint-Pierre-Montmartre	NAMEplace	1
+rue Saint-Sabin	NAMEplace	1
+rue Saint-Saulve	NAMEplace	1
+rue Sainte-Marguerite	NAMEplace	1
+rue Thérèse	NAMEpers	1
+rue Traversière-Saint-Antoine	NAMEplace	1
+rue bas	NAMEplace	1
+rue carême-prenant	NAMEplace	1
+rue censier	NAMEplace	1
+rue contrescarpe	NAMEplace	1
+rue copeau	NAMEplace	1
+rue coupe-gorge	NAMEplace	1
+rue d' Anjou	NAMEplace	1
+rue d' Artois	NAMEplace	1
+rue d' Assas	NAMEplace	1
+rue d' enfer	NAMEplace	1
+rue de Bercy	NAMEplace	1
+rue de Bourgogne	NAMEplace	1
+rue de Béthisy	NAMEplace	1
+rue de Grenelle-Saint-Honoré	NAMEplace	1
+rue de Lappe	NAMEplace	1
+rue de Poliveau	NAMEplace	1
+rue de Provence	NAMEplace	1
+rue de Reuilly	NAMEplace	1
+rue de Saintonge	NAMEplace	1
+rue de Tournon	NAMEplace	1
+rue de Vernon	NAMEpers	1
+rue de cotte	NAMEplace	1
+rue de l' Arbre-Sec	NAMEplace	1
+rue de l' arbalète	NAMEplace	1
+rue de l' Épée-de-Bois	NAMEplace	1
+rue de l' échaudé	NAMEplace	1
+rue de l' étoile	NAMEplace	1
+rue de la Cossonnerie	NAMEplace	1
+rue de la Grande-Truanderie	NAMEplace	1
+rue de la Mortellerie	NAMEplace	1
+rue de la Perle	NAMEpers	1
+rue de la Petite-Truanderie	NAMEplace	1
+rue de la Tour-des-Dames	NAMEplace	1
+rue de la Ville-l'Évêque	NAMEplace	1
+rue de la clef	NAMEplace	1
+rue de la corderie	NAMEplace	1
+rue de la harpe	NAMEplace	1
+rue de la poterie	NAMEplace	1
+rue de la roquette	NAMEplace	1
+rue de la santé	NAMEplace	1
+rue de varenne	NAMEplace	1
+rue du Battoir-Saint-Victor	NAMEplace	1
+rue du Bouloi	NAMEplace	1
+rue du Bouloy	NAMEplace	1
+rue du Cimetière-Saint-Nicolas	NAMEplace	1
+rue du Faubourg-Poissonnière	NAMEplace	1
+rue du Figuier-Saint-Paul	NAMEplace	1
+rue du Garraud-Blanc	NAMEplace	1
+rue du Petit-Gentilly	NAMEplace	1
+rue du Puits-l'Ermite	NAMEplace	1
+rue du cherche-midi	NAMEplace	1
+rue du geindre	NAMEplace	1
+rue du mail	NAMEplace	1
+rue du plâtre	NAMEplace	1
+rue du poirier	NAMEplace	1
+rue du ponceau	NAMEplace	1
+rue du rouler	NAMEplace	1
+rue du sabot	NAMEplace	1
+rue monsieur	NAMEplace	1
+rue moreau	NAMEplace	1
+rue pirouette	NAMEplace	1
+rue traversier	NAMEplace	1
+saint Martin	NAMEpers	1
+saint Matthieu	NAMEpers	1
+saint Michel	NAMEpers	1
+saint Paul	NAMEpers	1
+saint Robert	NAMEpers	1
+toi	NAMEpers	1
+tourteau	NAMEpers	1
+vieux	NAMEpers	1
+virginal	NAMEpers	1
+Ç'avait	NAMEpers	1
+Échabeau	NAMEpers	1
+Édaptéon	NAMEpers	1
+Élatos	NAMEpers	1
+Élie	NAMEpers	1
+Éléonore	NAMEpers	1
+Épaissirait	NAMEpers	1
+Éphestion	NAMEpers	1
+Éphyre	NAMEpers	1
+Épicure	NAMEpers	1
+Épiménide	NAMEpers	1
+Épinal	NAMEplace	1
+Éponine Thénardier	NAMEpers	1
+Éques	NAMEpers	1
+Érigone	NAMEpers	1
+Ésope	NAMEpers	1
+Ésèpe	NAMEpers	1
+Étienne	NAMEpers	1
+Évadné	NAMEpers	1
+Évohé	NAMEpers	1
+Évreux	NAMEplace	1
+Ézéchiel	NAMEpers	1
+élysée	NAMEpers	1
+île bourbon	NAMEplace	1
+île de Léon	NAMEpers	1
+Œiil-de-Bœuf	NAMEpers	1

@@ -1,0 +1,789 @@
+forme	type	effectif
+Nautilus	NAMEpers	636
+Nemo	NAMEpers	478
+Ned land	NAMEpers	262
+Ned	NAMEpers	177
+Aronnax	NAMEpers	84
+Abraham-Lincoln	NAMEpers	50
+land	NAMEpers	42
+Méditerranée	NAMEplace	40
+Farragut	NAMEpers	39
+France	NAMEplace	30
+Amérique	NAMEplace	29
+Europe	NAMEplace	28
+Paris	NAMEplace	17
+Gulf-Stream	NAMEpers	16
+New York	NAMEpers	16
+Vanikoro	NAMEpers	15
+Dumont d' Urville	NAMEplace	14
+Pérouse	NAMEplace	14
+Scotia	NAMEpers	14
+Afrique	NAMEplace	11
+Papouasie	NAMEpers	11
+Torrès	NAMEpers	11
+Angleterre	NAMEplace	10
+Atlantide	NAMEpers	10
+Dieu	NAME	10
+Japon	NAMEplace	10
+Antilles	NAMEpers	9
+Ceylan	NAMEpers	9
+Gibraltar	NAMEpers	9
+Maury	NAMEplace	9
+Papouas	NAMEpers	9
+Ruhmkorff	NAMEpers	9
+île Crespo	NAMEplace	9
+Asie	NAMEplace	8
+Cook	NAMEpers	8
+Dillon	NAMEpers	8
+Irlande	NAMEplace	8
+Équateur	NAMEplace	8
+Chine	NAMEplace	7
+Neptune	NAME	7
+baie de Vigo	NAMEplace	7
+cap Horn	NAMEplace	7
+cap de Bonne-Espérance	NAMEplace	7
+île Gueboroar	NAMEplace	7
+Espagne	NAMEplace	6
+Liverpool	NAMEpers	6
+Rouquayrol	NAMEpers	6
+golfe du Mexique	NAMEplace	6
+Égypte	NAMEplace	6
+Amazone	NAME	5
+Aristote	NAME	5
+Calcutta	NAMEplace	5
+Entrecasteaux	NAMEplace	5
+Norvège	NAMEplace	5
+Pline	NAME	5
+Saint-Laurent	NAMEplace	5
+Syrie	NAMEplace	5
+maître Ned	NAMEpers	5
+Bouguer	NAMEpers	4
+Brooklyn	NAMEpers	4
+Bunzen	NAMEpers	4
+Cadix	NAMEplace	4
+Cunard	NAMEpers	4
+Dumont-d'Urville	NAMEpers	4
+Great-Eastern	NAMEpers	4
+Grèce	NAMEplace	4
+Gulf Stream	NAMEpers	4
+Inde	NAMEplace	4
+Italie	NAMEplace	4
+Lacépède	NAMEplace	4
+Midi	NAMEplace	4
+Moïse	NAME	4
+Nord	NAMEplace	4
+Nouvelle-Calédonie	NAMEpers	4
+Pomotou	NAMEpers	4
+Québec	NAMEpers	4
+Shannon	NAMEpers	4
+Vanou	NAMEpers	4
+capitaine Anderson	NAMEpers	4
+État	NAME	4
+Abraham Lincoln	NAMEpers	3
+Aléoutiennes	NAMEpers	3
+Arabie	NAMEpers	3
+Arago	NAMEpers	3
+Babel-Mandeb	NAMEpers	3
+Bougainville	NAMEplace	3
+Brest	NAMEplace	3
+Canaries	NAMEpers	3
+Château-Renaud	NAMEpers	3
+Crespo	NAMEpers	3
+Crète	NAMEpers	3
+Cuvier	NAME	3
+Davis	NAMEpers	3
+Governor-Higginson	NAMEpers	3
+Greenwich	NAMEpers	3
+Heart's content	NAMEpers	3
+Helvetia	NAMEpers	3
+Hercule	NAMEpers	3
+Homère	NAME	3
+Humboldt	NAMEpers	3
+James Ross	NAMEpers	3
+Krakens	NAMEpers	3
+Libye	NAMEplace	3
+Londres	NAMEplace	3
+Long-Island	NAMEpers	3
+M. Darwin	NAMEpers	3
+Magellan	NAMEpers	3
+Malaisie	NAMEplace	3
+Manaar	NAMEpers	3
+Manche	NAMEplace	3
+Milne-Edwards	NAMEpers	3
+Mississipi	NAMEpers	3
+Moravian	NAMEpers	3
+Nouvelle-Guinée	NAMEpers	3
+Nouvelle-Hollande	NAMEpers	3
+Nouvelle-Zélande	NAMEplace	3
+Néa-Kamenni	NAMEpers	3
+Océanie	NAMEpers	3
+Oman	NAMEplace	3
+Philippe 5	NAMEpers	3
+Provence	NAMEplace	3
+Prusse	NAMEpers	3
+Rhodes	NAMEplace	3
+Sirr	NAMEpers	3
+Spitzberg	NAMEpers	3
+Très-heureusement	NAMEpers	3
+Urville	NAMEplace	3
+Vigo	NAMEpers	3
+cap vert	NAMEplace	3
+de Lesseps	NAMEpers	3
+golfe de Manaar	NAMEplace	3
+golfe du Bengale	NAMEplace	3
+golfe persique	NAMEplace	3
+île Keeling	NAMEplace	3
+île de Ceylan	NAMEplace	3
+Aden	NAMEpers	2
+Adélie	NAMEpers	2
+Alecton	NAME	2
+Andamènes	NAMEpers	2
+Arabian-Tunnel	NAMEpers	2
+Atlas	NAME	2
+Australie	NAMEplace	2
+Autriche	NAMEplace	2
+Açores	NAMEpers	2
+Bahama	NAMEpers	2
+Bayonnaise	NAMEpers	2
+Bering	NAMEpers	2
+Brésil	NAMEplace	2
+Buffon	NAME	2
+Canada	NAMEplace	2
+Caspienne	NAMEpers	2
+Ceyland	NAMEpers	2
+Cléopâtre	NAMEpers	2
+Colomb	NAMEpers	2
+Company	NAMEpers	2
+Cristobal-Colon	NAMEpers	2
+Djeddah	NAMEpers	2
+Duperrey	NAMEpers	2
+Edgar Poe	NAMEpers	2
+Edrisi	NAMEpers	2
+Engel	NAMEpers	2
+Essex	NAMEpers	2
+Faraday	NAMEpers	2
+Glasgow	NAMEplace	2
+Gratiolet	NAMEpers	2
+Hudson	NAMEpers	2
+Ira	NAMEpers	2
+Jupiter	NAME	2
+Kat tender	NAMEpers	2
+Laquedives	NAMEpers	2
+Loffoden	NAMEpers	2
+Loire	NAMEplace	2
+Louis 16	NAMEpers	2
+Louis-Philippe	NAMEpers	2
+Lucayes	NAMEpers	2
+Mascareignes	NAMEpers	2
+Mascate	NAMEpers	2
+Maurice	NAMEpers	2
+Melbourne	NAMEplace	2
+Michelet	NAME	2
+Milne Edwards	NAMEpers	2
+Moby Dick	NAMEpers	2
+N	NAMEpers	2
+Nebraska	NAMEpers	2
+New-Shetland	NAMEpers	2
+Non-seulement	NAMEpers	2
+Nouvelles-Hébrides	NAMEpers	2
+Orbigny	NAMEplace	2
+Pacific	NAMEpers	2
+Plata	NAMEpers	2
+Port-Saïd	NAMEpers	2
+Protée	NAME	2
+Rabelais	NAME	2
+Rhin	NAMEpers	2
+Royal-Mail	NAMEpers	2
+Saint-Malo	NAMEplace	2
+Scott	NAME	2
+Solon	NAME	2
+Strabon	NAMEpers	2
+Sénégal	NAMEplace	2
+Tasman	NAMEpers	2
+Terror	NAMEpers	2
+Timor	NAMEpers	2
+Tor	NAMEpers	2
+Très-bien	NAMEpers	2
+Très-probablement	NAMEpers	2
+Turquie	NAMEplace	2
+Victor Hugo	NAMEpers	2
+Victoria	NAMEpers	2
+Vénus	NAME	2
+Véronèse	NAMEpers	2
+Washington	NAMEpers	2
+cap Clear	NAMEplace	2
+cap Matapan	NAMEplace	2
+cap San-Roque	NAMEpers	2
+capitaine Dillon	NAMEpers	2
+conseil	NAMEpers	2
+de Langle	NAMEpers	2
+golfe de Gascogne	NAMEplace	2
+golfe de suer	NAMEplace	2
+États-Unis	NAMEplace	2
+île Clermont-Tonnerre	NAMEplace	2
+île de Manaar	NAMEplace	2
+île de Santorin	NAMEplace	2
+île de Vanikoro	NAMEplace	2
+îlot Aphrœssa	NAMEplace	2
+14	NAMEpers	1
+ATLANTIDE	NAMEpers	1
+Acores	NAMEpers	1
+Actium	NAMEpers	1
+Adélaïde	NAMEpers	1
+Agassis	NAMEpers	1
+Agatharchide	NAMEpers	1
+Aimable-Josephine	NAMEpers	1
+Al-Mansor	NAMEpers	1
+Albermale	NAMEpers	1
+Alexandrie	NAMEpers	1
+Allemagne	NAMEplace	1
+Alvar de Saavedra	NAMEpers	1
+Amiens	NAMEplace	1
+Ammien-Marcellin	NAMEpers	1
+Amérique du Nord	NAMEplace	1
+Amérique du sud	NAMEplace	1
+Andes	NAMEpers	1
+Antoine	NAMEpers	1
+Antonins	NAMEpers	1
+Anville	NAMEplace	1
+Arabia	NAME	1
+Arabie pétré	NAMEpers	1
+Arachné	NAME	1
+Aral	NAMEpers	1
+Archimède	NAMEpers	1
+Arfalxs	NAMEpers	1
+Argo	NAMEpers	1
+Arrien	NAMEplace	1
+Arrou	NAMEplace	1
+Artic	NAMEpers	1
+Artémidore	NAMEpers	1
+Asie mineur	NAMEplace	1
+Asphaltite	NAMEpers	1
+Asturiens	NAMEpers	1
+Atlantide de Platon	NAMEpers	1
+Auber	NAMEpers	1
+Auguste	NAMEpers	1
+Aures	NAMEpers	1
+Avezac	NAMEpers	1
+Avienus	NAMEpers	1
+Backuysen	NAMEpers	1
+Bailly	NAMEpers	1
+Baker	NAMEpers	1
+Balleny	NAMEpers	1
+Bazin	NAMEpers	1
+Beethoven	NAME	1
+Bell	NAMEpers	1
+Belle-Île	NAMEplace	1
+Bellinghausen	NAMEpers	1
+Berlin	NAMEplace	1
+Berthelot	NAMEpers	1
+Biscoë	NAMEpers	1
+Blanche	NAMEpers	1
+Bombay	NAMEplace	1
+Bonaparte	NAMEpers	1
+Bos	NAMEpers	1
+Botany-Bay	NAMEpers	1
+Botzaris	NAMEpers	1
+Bowen	NAMEpers	1
+Bowery-street	NAMEpers	1
+Broadway	NAMEpers	1
+Brunsfield	NAMEpers	1
+Bubaste	NAMEpers	1
+Buccinoïdes	NAMEpers	1
+Bureau-Veritas	NAMEpers	1
+Burley	NAMEpers	1
+Burnach	NAMEpers	1
+Byron	NAME	1
+Béring	NAMEpers	1
+Cail	NAMEpers	1
+Canadian	NAMEpers	1
+Candie	NAMEpers	1
+Candiote	NAMEpers	1
+Caroline du Nord	NAMEpers	1
+Carpathio Neptuni	NAMEpers	1
+Carteret	NAMEpers	1
+Cartier	NAMEpers	1
+Cassiodore	NAMEpers	1
+Cerigo	NAMEpers	1
+Ceuta	NAMEpers	1
+Chanticleer	NAMEpers	1
+Charles 10	NAMEpers	1
+Charles III	NAMEpers	1
+Charles quint	NAMEpers	1
+Chasles	NAMEpers	1
+Chassepot	NAMEpers	1
+China	NAMEpers	1
+Christmas	NAMEpers	1
+Chélonées	NAMEpers	1
+Cicéron	NAME	1
+Cingalese	NAMEpers	1
+City-of-Glasgow	NAMEpers	1
+Clarie	NAMEpers	1
+Clermont-Tonnerre	NAMEplace	1
+Congo	NAMEplace	1
+Congress	NAMEpers	1
+Copenhague	NAMEpers	1
+Coromandel	NAMEpers	1
+Corrège	NAMEpers	1
+Corse	NAMEplace	1
+Coupvent-Desbois	NAMEpers	1
+Creusot	NAMEpers	1
+Critias	NAMEpers	1
+Cumberland	NAMEpers	1
+Cyclades	NAMEpers	1
+Cyprœa Madagascariensis	NAMEpers	1
+Cyrus field	NAMEpers	1
+C°	NAMEpers	1
+Cº	NAMEpers	1
+César	NAME	1
+Cœnodulli	NAMEpers	1
+Cœruleus Proteus	NAMEpers	1
+Dampier	NAMEpers	1
+Danube	NAMEpers	1
+Darius	NAMEpers	1
+Daubigny	NAMEpers	1
+Davis-Southern Islands	NAMEpers	1
+Decamps	NAMEpers	1
+Delacroix	NAME	1
+Dendrophyllée	NAMEpers	1
+Denham de l' Hérald	NAMEpers	1
+Diane	NAMEpers	1
+Diderot	NAME	1
+Dieudonné de Gozon	NAMEpers	1
+Duke-of-Portland	NAMEpers	1
+Dumeril	NAMEpers	1
+Edrom	NAMEpers	1
+Edwards	NAMEpers	1
+Elbe	NAMEpers	1
+Enderby	NAMEpers	1
+Erebus	NAMEpers	1
+Erhemberg	NAMEpers	1
+Estaing	NAMEplace	1
+Etna	NAMEpers	1
+Eusebès	NAMEpers	1
+Falkland	NAMEpers	1
+Fastenet	NAMEpers	1
+Fernand Cortez	NAMEpers	1
+Feroë	NAMEpers	1
+Fifth avenue	NAMEpers	1
+Fire-Island	NAMEpers	1
+Fitz-James	NAMEpers	1
+Fleuve-Noir	NAMEpers	1
+Florida	NAMEpers	1
+Floride	NAMEpers	1
+Florides	NAMEpers	1
+Forrest	NAMEpers	1
+Forster	NAMEpers	1
+Foucault	NAMEpers	1
+Fourth-Avenue	NAMEpers	1
+Francisco Serrano	NAMEpers	1
+François	NAMEpers	1
+Frédol	NAMEpers	1
+Fulton	NAMEpers	1
+Fumel	NAMEplace	1
+Furcy	NAMEpers	1
+Féroé	NAMEpers	1
+Galilée	NAMEpers	1
+Galles	NAMEplace	1
+Gallien	NAMEpers	1
+Gambier	NAMEpers	1
+Gange	NAMEpers	1
+Ghéritk	NAMEpers	1
+Gordon Pym	NAMEpers	1
+Gounod	NAMEpers	1
+Graham	NAMEpers	1
+Greco	NAMEpers	1
+Grenade	NAMEplace	1
+Grijalva	NAMEpers	1
+Grœnland	NAMEpers	1
+Guadeloupe	NAMEpers	1
+Guyanes	NAMEpers	1
+Gérard Dow	NAMEpers	1
+Géricault	NAMEpers	1
+Hadjaroth	NAMEpers	1
+Hadramant	NAMEpers	1
+Halifax	NAMEpers	1
+Hansten	NAMEpers	1
+Haouaï	NAMEpers	1
+Hapaï	NAMEpers	1
+Harrington	NAMEpers	1
+Hartz	NAMEpers	1
+Haydn	NAMEpers	1
+Haye	NAMEpers	1
+Henry Sainte-Claire Deville	NAMEpers	1
+Herold	NAMEpers	1
+Hibernia	NAMEpers	1
+Hindoustan	NAMEpers	1
+Hippolyte	NAMEpers	1
+Hobart-Town	NAMEpers	1
+Holbein	NAMEpers	1
+Horn	NAMEpers	1
+Hullamock	NAMEpers	1
+Hungarian	NAMEpers	1
+Hunter	NAMEpers	1
+Hydroméduses	NAMEpers	1
+Hymalaya	NAMEpers	1
+Hytaspe	NAMEpers	1
+Hébrides	NAMEpers	1
+Iliade	NAMEpers	1
+Ingres	NAME	1
+Inman	NAMEpers	1
+Inmann	NAMEpers	1
+Isis	NAME	1
+J. B. HOBSON	NAMEpers	1
+J. B. Hobson	NAMEpers	1
+Jacquinot	NAMEpers	1
+Jamblique	NAMEpers	1
+James Hobbs	NAMEpers	1
+Jansen	NAMEpers	1
+Jean Macé	NAMEpers	1
+John Brown	NAMEpers	1
+John Davis	NAMEpers	1
+Jonas	NAMEpers	1
+Joseph Bertrand	NAMEpers	1
+José de Menesès	NAMEpers	1
+Jubal	NAMEpers	1
+Juigo Ortez	NAMEpers	1
+Jésus-Christ	NAME	1
+Kandubon	NAMEpers	1
+Kara	NAMEpers	1
+Katrin-ferry-boat	NAMEpers	1
+Katrin-street	NAMEpers	1
+Kosciusko	NAMEpers	1
+Krupp	NAMEpers	1
+Kulammak	NAMEpers	1
+Kuro-Scivo	NAMEpers	1
+La Pérouse	NAMEpers	1
+Land's End	NAMEpers	1
+Landi	NAMEpers	1
+Laurentia	NAMEpers	1
+Leard	NAMEpers	1
+Legoarant de Tromelin	NAMEpers	1
+Leniebroek	NAMEpers	1
+Leyde	NAMEpers	1
+Liarrov	NAMEpers	1
+Lincoln	NAMEpers	1
+Linné	NAME	1
+Lloyd	NAMEpers	1
+Lord-Clyde	NAMEpers	1
+Louis 14	NAMEpers	1
+Louis Paz de Torrès	NAMEpers	1
+Louisiade	NAMEpers	1
+Lucullus	NAMEpers	1
+Lyonnais	NAMEplace	1
+Léonard de Vinci	NAME	1
+Léonidas de la Grèce	NAMEplace	1
+Mac Clintock	NAMEpers	1
+Mac Cluer	NAMEpers	1
+Madrid	NAMEplace	1
+Mahrah	NAMEpers	1
+Maiden-Islands	NAMEpers	1
+Makhimos	NAMEpers	1
+Malacca	NAMEpers	1
+Maledives	NAMEpers	1
+Malte-Brun	NAMEplace	1
+Manin	NAMEplace	1
+Marine	NAMEpers	1
+Marine royal	NAMEpers	1
+Maroni	NAMEpers	1
+Martin de Nouka-Hiva	NAMEpers	1
+Martinique	NAMEpers	1
+Meissonnier	NAMEpers	1
+Metsu	NAMEpers	1
+Meyerbeer	NAMEpers	1
+Midas	NAME	1
+Minerve	NAME	1
+Mississippi	NAMEpers	1
+Missouri	NAMEpers	1
+Mittheilungen de Petermann	NAMEpers	1
+Mobilis	NAMEpers	1
+Mohammed-ben-Abdoallah	NAMEpers	1
+Moigno	NAMEpers	1
+Molluques	NAMEpers	1
+Money	NAMEpers	1
+Monroe	NAMEpers	1
+Montagnes-Rocheuses	NAMEpers	1
+Montpellier	NAMEplace	1
+Montréal	NAMEplace	1
+Montréal océan Company	NAMEplace	1
+Moquin-Tandon	NAMEpers	1
+Morrel	NAMEpers	1
+Motala	NAMEpers	1
+Mouna-Rea	NAMEpers	1
+Mozambique	NAMEplace	1
+Mozart	NAME	1
+Murillo	NAMEpers	1
+Mélanésie	NAMEpers	1
+Méropide de Théopompe	NAMEpers	1
+NEMO	NAMEpers	1
+Namouka	NAMEpers	1
+Nantes	NAMEplace	1
+Narwal	NAMEpers	1
+Nauilus	NAMEpers	1
+Nautilus je	NAMEpers	1
+Nautron	NAMEpers	1
+Necos	NAMEpers	1
+Nemastoma Geliniaroide	NAMEpers	1
+New York-Herald	NAMEpers	1
+New-Jersey	NAMEpers	1
+Newcastle	NAMEpers	1
+Nicolas	NAMEpers	1
+Nicolas Sruick	NAMEpers	1
+Nidros	NAMEpers	1
+Niger	NAMEplace	1
+Nord-Caper	NAMEplace	1
+Nord-Ouest	NAMEplace	1
+Normandie	NAMEplace	1
+Norwége	NAMEpers	1
+Nouvelle-Géorgie	NAMEpers	1
+Nouvelle-Zemble	NAMEpers	1
+Nouvelle-Écosse	NAMEpers	1
+Néa	NAMEpers	1
+Néa-Kamenni de Paléa-Kamenni	NAMEpers	1
+O'Connell	NAMEpers	1
+Oder	NAMEpers	1
+Olaüs Magnus	NAMEpers	1
+Omar	NAMEpers	1
+Oppien	NAMEpers	1
+Origène	NAMEpers	1
+Orion	NAME	1
+Orkney du sud	NAMEpers	1
+Orphée	NAME	1
+Orénoque	NAMEpers	1
+Pacou	NAMEpers	1
+Paléa	NAMEpers	1
+Pan	NAME	1
+Panama	NAMEplace	1
+Paramattà	NAMEpers	1
+Parcker	NAMEpers	1
+Parthénon	NAMEpers	1
+Patagonie	NAMEpers	1
+Paul Heggede	NAMEpers	1
+Paul Potter	NAMEpers	1
+Pen	NAMEpers	1
+Perceval	NAMEpers	1
+Pereire	NAMEpers	1
+Persia	NAMEpers	1
+Pesce	NAMEpers	1
+Petermann	NAMEpers	1
+Peysonnel	NAMEpers	1
+Philippe Coles	NAMEpers	1
+Pierre Aronnax	NAMEpers	1
+Platon	NAME	1
+Pluton	NAME	1
+Poloniœ	NAMEpers	1
+Pompylius	NAMEpers	1
+Pompéi	NAMEpers	1
+Pontoppidan	NAMEpers	1
+Pontoppidan de Berghem	NAMEpers	1
+Porphyria	NAMEpers	1
+Port-au-Prince	NAMEplace	1
+Portugal	NAMEplace	1
+Possidonius	NAMEpers	1
+Powell	NAMEpers	1
+Poype-Vertrieux	NAMEpers	1
+Preston	NAMEpers	1
+Propontide	NAMEpers	1
+Prudhon	NAMEpers	1
+Ptolémée II	NAMEpers	1
+Ptolémées	NAMEpers	1
+Pyrénées	NAMEpers	1
+Péluse	NAMEpers	1
+Pô	NAMEpers	1
+Quatrefages	NAMEpers	1
+Quintuplez	NAMEpers	1
+Quiros	NAMEpers	1
+Quonfodah	NAMEpers	1
+Raphaël	NAMEpers	1
+Ras-Mohammed	NAMEpers	1
+Remington	NAMEpers	1
+Rhodoménie	NAMEpers	1
+Ribeira	NAMEpers	1
+Richard Hawkins	NAMEpers	1
+Rio de la Plata	NAMEplace	1
+Rocca de la Plata	NAMEpers	1
+Rome	NAMEplace	1
+Rossini	NAMEpers	1
+Rouquayrol-Denayrouze	NAMEpers	1
+Rubens	NAME	1
+Rumhkorff	NAMEpers	1
+Russia	NAMEpers	1
+Russie	NAMEplace	1
+Réka	NAMEpers	1
+République	NAME	1
+République de Venise	NAMEplace	1
+Sabrina	NAMEpers	1
+Sadowa	NAMEpers	1
+Saint-Jean de terre-neuve	NAMEplace	1
+Saint-Louis	NAMEplace	1
+Saint-Nicolas de Paléa-Kamenni	NAMEplace	1
+Saint-Patrick	NAMEpers	1
+Saint-Sulpice	NAMEplace	1
+Salomon	NAMEpers	1
+San Francisco de californie	NAMEpers	1
+Sand	NAMEpers	1
+Sandy-Hook	NAMEpers	1
+Santa-Cruz	NAMEpers	1
+Santorin	NAMEpers	1
+Saturne	NAME	1
+Saxe	NAMEpers	1
+Saxon	NAMEpers	1
+Saïs	NAMEpers	1
+Secchi	NAMEpers	1
+Seringapatam	NAMEpers	1
+Servillia	NAMEpers	1
+Shangaï	NAMEpers	1
+Sherer	NAMEpers	1
+Shouten	NAMEpers	1
+Sicile	NAMEpers	1
+Sierra Leone	NAMEpers	1
+Simbad	NAMEpers	1
+Sinaï	NAMEpers	1
+Sirr H. 100	NAMEpers	1
+Smith	NAMEpers	1
+Smithsonnienne de Washington	NAMEpers	1
+Société	NAME	1
+Société asiatique	NAME	1
+Solway	NAMEpers	1
+Sorlingues	NAMEpers	1
+Souakin	NAMEpers	1
+Sporades	NAMEpers	1
+Suisse	NAMEplace	1
+Sunderland	NAMEpers	1
+Surinam	NAMEpers	1
+Suède	NAMEplace	1
+Sydney	NAMEpers	1
+Sénèque	NAME	1
+Sésostris	NAMEpers	1
+T	NAMEpers	1
+Taiti	NAMEpers	1
+Tertullien	NAMEpers	1
+The Indian Archipelago	NAMEpers	1
+Théia	NAMEpers	1
+Tikopia	NAMEpers	1
+Timée	NAMEpers	1
+Titien	NAMEpers	1
+Tonga-Tabou	NAMEplace	1
+Toricelli	NAMEpers	1
+Torre	NAMEpers	1
+Tournefort	NAMEplace	1
+Toussenel	NAMEpers	1
+Tranquebar	NAMEpers	1
+Trieste	NAMEpers	1
+Troyon	NAMEplace	1
+Très-cordialement	NAMEpers	1
+Très-facilement	NAMEpers	1
+Très-impatient	NAMEpers	1
+Très-intéressant	NAMEpers	1
+Très-mal	NAMEpers	1
+Très-promptement	NAMEpers	1
+Très-rare	NAMEpers	1
+Très-sérieusement	NAMEpers	1
+Très-sérieuses	NAMEpers	1
+Très-versé	NAMEpers	1
+Très-volontiers	NAMEpers	1
+Tunis	NAMEpers	1
+Tyndall	NAMEpers	1
+Téhama	NAMEpers	1
+Téniers	NAMEpers	1
+Ténériffe	NAMEpers	1
+Umgallick	NAMEpers	1
+Umgullick	NAMEpers	1
+Union-square	NAMEpers	1
+United-States	NAMEpers	1
+Unsnea	NAMEpers	1
+Uruguay	NAMEplace	1
+Van Stabel	NAMEpers	1
+Vanoua-Levou	NAMEpers	1
+Vasco de Gama	NAMEpers	1
+Velázquez	NAMEpers	1
+Vernet	NAMEplace	1
+Villaret-Joyeuse	NAMEpers	1
+Vincendon Dumoulin	NAMEpers	1
+Virgile	NAME	1
+Vitellius	NAMEpers	1
+Viti	NAMEpers	1
+Viti-Levou	NAMEpers	1
+Volga	NAMEpers	1
+Vésuve	NAMEpers	1
+Wagner	NAME	1
+Wailea	NAMEpers	1
+Walter Scott	NAMEpers	1
+Weber	NAME	1
+Weddel	NAMEpers	1
+West India	NAMEpers	1
+Wilkes	NAMEpers	1
+Xénophon	NAMEpers	1
+Yéddo	NAMEpers	1
+baie de Baffin	NAMEplace	1
+baie de Tor	NAMEpers	1
+baie de Wailea	NAMEplace	1
+baie de la Chesapeak	NAMEplace	1
+baie du Vigo	NAMEplace	1
+bureau	NAMEpers	1
+cap Boco	NAMEplace	1
+cap Furina	NAMEplace	1
+cap Hatteras	NAMEplace	1
+cap Nord	NAMEplace	1
+cap Saint-Vincent	NAMEplace	1
+cap San Roque	NAMEpers	1
+cap Wessel	NAMEplace	1
+cap blanc	NAMEplace	1
+cap bon	NAMEplace	1
+cap de Ras-Mohammed	NAMEplace	1
+cap de bon espérance	NAMEplace	1
+cap frio	NAMEplace	1
+cap race	NAMEplace	1
+capitaine Fitz-Roy	NAMEpers	1
+capitaine King	NAMEpers	1
+d' Anjou	NAMEpers	1
+de Quatrefages	NAMEpers	1
+de Rienzi	NAMEpers	1
+de gras	NAMEpers	1
+du Monroe	NAMEpers	1
+du Nautilus	NAMEpers	1
+du pacifique	NAMEpers	1
+golfe d' Acabah	NAMEplace	1
+golfe d' Aden	NAMEpers	1
+golfe de Carpentarie	NAMEplace	1
+golfe de Colzoum	NAMEplace	1
+golfe de Panama	NAMEplace	1
+golfe de Péluse	NAMEplace	1
+golfe de californie	NAMEplace	1
+golfe de l' Obi	NAMEpers	1
+hôtel Adelphi	NAMEplace	1
+hôtel du Sommerard	NAMEplace	1
+mont Kapogo	NAMEplace	1
+mont Oreb	NAMEplace	1
+mont Sarmiento	NAMEplace	1
+roi George	NAMEpers	1
+Éccclésiaste	NAMEpers	1
+Écosse	NAMEplace	1
+Érébus	NAMEpers	1
+État de l' union	NAME	1
+États-Unis d' Amérique	NAMEplace	1
+Étésiens	NAMEpers	1
+île Ducie	NAMEplace	1
+île Kittan	NAMEplace	1
+île Lazareff	NAMEplace	1
+île Manaar	NAMEplace	1
+île Murray	NAMEpers	1
+île Rotti	NAMEplace	1
+île Saint-Paul	NAMEplace	1
+île Santorin	NAMEplace	1
+île Tound	NAMEplace	1
+île bourbon	NAMEplace	1
+île d' Aurou	NAMEplace	1
+île d' émeraude	NAMEplace	1
+île de Carpathos	NAMEplace	1
+île de Ceyland	NAMEplace	1
+île de Clermont-Tonnerre	NAMEplace	1
+île de Crespo	NAMEplace	1
+île de Crète	NAMEplace	1
+île de Gueboroar	NAMEplace	1
+île de Périm	NAMEplace	1
+île de Scarpanto	NAMEplace	1
+île de Tikopia	NAMEplace	1
+île de la Papouasie	NAMEplace	1
+île de la recherche	NAMEplace	1
+îlot de George	NAMEpers	1
